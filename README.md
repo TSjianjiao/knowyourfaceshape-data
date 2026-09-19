@@ -21,3 +21,10 @@ Exported from the article sources on 2026-09-19. The rule set carries its own ca
 ## License
 
 Data and tables: [CC BY 4.0](./LICENSE). Attribution: "knowyourfaceshape.com" with a link to the originating article where one exists. The third-party positions quoted inside the tables belong to their publishers; this archive records what was published, with dates, and claims no ownership of it.
+
+## Cite as
+
+A frozen v1.0 snapshot of this repository (2026-09-19) is archived on Zenodo: [DOI 10.5281/zenodo.22842019](https://doi.org/10.5281/zenodo.22842019).
+
+> knowyourfaceshape.com (2026). *KnowYourFaceShape Open Data: a face-shape classification rule set and 27 dated comparison tables of published styling advice* (v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22842019
+
