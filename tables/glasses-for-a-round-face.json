@@ -1,0 +1,250 @@
+{
+  "slug": "glasses-for-a-round-face",
+  "url": "https://knowyourfaceshape.com/blog/glasses-for-a-round-face/",
+  "title": "Glasses for a Round Face: Four Numbers That Fight Each Other",
+  "tables": [
+    {
+      "section": "Every number on the frame, in millimetres and inches",
+      "caption": "The ten fitting numbers for glasses on a round face — three stamped on the temple arm, two measured on you, five computed",
+      "head": [
+        "Measurement",
+        "Where the number comes from",
+        "Adult range",
+        "Same range in inches"
+      ],
+      "rows": [
+        [
+          "Cheekbone width — the widest line on the face",
+          "Yours. A soft tape across the tops of the cheekbones",
+          "128.2 – 148.8 mm",
+          "5.05 – 5.86 in"
+        ],
+        [
+          "Pupillary distance (PD)",
+          "Yours. The refraction, or a mirror and a ruler",
+          "50 – 70 mm; average 63",
+          "1.97 – 2.76 in; average 2.48"
+        ],
+        [
+          "Lens width (A, eye size)",
+          "Stamped first — the 54 in 54-18-140",
+          "40 – 60 mm",
+          "1.57 – 2.36 in"
+        ],
+        [
+          "Bridge width (DBL)",
+          "Stamped second — the 18",
+          "14 – 24 mm",
+          "0.55 – 0.94 in"
+        ],
+        [
+          "Temple length",
+          "Stamped third — the 140",
+          "120 – 150 mm",
+          "4.72 – 5.91 in"
+        ],
+        [
+          "Frame PD (A + DBL)",
+          "Computed. Add the two stamped numbers",
+          "54 – 84 mm",
+          "2.13 – 3.31 in"
+        ],
+        [
+          "Lens depth (B)",
+          "Almost never stamped. Ask for it with a ruler",
+          "30 – 45 mm; this face wants under 40",
+          "1.18 – 1.77 in; under 1.57"
+        ],
+        [
+          "Total frame width",
+          "Not stamped. A ruler, end piece to end piece",
+          "Cheekbone width, up to a few mm past it",
+          "The same band, divided by 25.4"
+        ],
+        [
+          "Effective diameter (ED)",
+          "Computed by the lab. Twice the longest radius from the lens centre",
+          "Never less than A; 63.8 on a 54 × 34 lens",
+          "Never less than 1.57; 2.51 on that lens"
+        ],
+        [
+          "Minimum blank size (MBS)",
+          "Computed: ED + (Frame PD − PD) + 2 mm",
+          "Stock blanks run 65 / 70 / 75 mm at the large end",
+          "2.56 / 2.76 / 2.95 in"
+        ]
+      ],
+      "footnote": "Published, and dated in the table further down: cheekbone width from a 2022 anthropometric dataset, men 142.62 ± 6.22 mm (5.61 ± 0.24 in) and women 133.77 ± 5.56 mm (5.27 ± 0.22 in), the range here being −1 SD to +1 SD across both; lens width, bridge width and temple length from a consumer eye-health reference published January 2019 and updated April 2026; stock blank diameters from a lens supplier, September 2026. PD is where the sources part company — a hospital health article published April 2026 gives 50 – 70 mm with an average of 63, an eye-health reference updated August 2025 gives 60 – 65 mm as the adult average, and neither is wrong about the population it measured. Computed, not published: Frame PD is the sum of two stamped numbers; ED = √(A² + B²) for a boxed rectangle, which is this page's own upper bound and slightly overstates a real lens because real lenses have rounded corners, while for a true circle ED = A. This page's own estimates, and labelled as such: the lens-depth range of 30 – 45 mm, taken from the per-style depths a fitting guide published in July 2026, and the total-width band, which is a fitting rule rather than a measured range — the published ceilings on it disagree, and the total-width section below sets them out. This page carries print styles; both tables come out complete on A4 or Letter."
+    },
+    {
+      "section": "The collision: width wants bigger, the lens wants smaller",
+      "caption": "Seven frames on one round face: cheekbone width 138 mm (5.43 in), PD 62 mm (2.44 in), decentration ceiling 5 mm (0.20 in). Three rows can be made; four cannot, or should not be.",
+      "head": [
+        "Frame, as stamped (material, allowance)",
+        "Total width",
+        "Decentration per eye",
+        "Blank it needs, and B/A"
+      ],
+      "rows": [
+        [
+          "46-20-135, small round wire (metal, 13 mm / 0.51 in)",
+          "125 mm / 4.92 in — 13 mm short",
+          "2.0 mm / 0.08 in",
+          "52.0 mm / 2.05 in — 65 blank; B/A 1.00"
+        ],
+        [
+          "52-20-140, large true round (acetate, 20 mm / 0.79 in)",
+          "144 mm / 5.67 in — 6 mm past",
+          "5.0 mm / 0.20 in",
+          "64.0 mm / 2.52 in — 65 blank; B/A 1.00"
+        ],
+        [
+          "50-22-140, bold acetate (acetate, 20 mm / 0.79 in)",
+          "142 mm / 5.59 in — 4 mm past",
+          "5.0 mm / 0.20 in",
+          "73.6 mm / 2.90 in — 75 blank; B/A 0.72"
+        ],
+        [
+          "53-19-140 (acetate, 20 mm / 0.79 in)",
+          "145 mm / 5.71 in — 7 mm past",
+          "5.0 mm / 0.20 in",
+          "75.0 mm / 2.95 in — exactly a 75 blank; B/A 0.64"
+        ],
+        [
+          "54-18-140 (acetate, 20 mm / 0.79 in)",
+          "146 mm / 5.75 in — 8 mm past",
+          "5.0 mm / 0.20 in",
+          "75.8 mm / 2.98 in — no blank exists"
+        ],
+        [
+          "57-18-140 (titanium, 15 mm / 0.59 in)",
+          "147 mm / 5.79 in — 9 mm past",
+          "6.5 mm / 0.26 in — over the ceiling",
+          "83.5 mm / 3.29 in — no blank exists"
+        ],
+        [
+          "60-14-140, thin metal (metal, 13 mm / 0.51 in)",
+          "147 mm / 5.79 in — 9 mm past",
+          "6.0 mm / 0.24 in — over the ceiling",
+          "86.1 mm / 3.39 in — no blank exists"
+        ]
+      ],
+      "footnote": "Every cell is arithmetic, not measurement: total width = 2A + DBL + R; decentration = (Frame PD − PD) / 2; ED = √(A² + B²) for a boxed rectangle and = A for a true circle; MBS = ED + (Frame PD − PD) + 2 mm. The allowance R in each row is the published median for that material — acetate 20 mm (0.79 in), plastic 16 (0.63 in), titanium 15 (0.59 in), metal 13 (0.51 in) — measured across 3,942 retailer frame records and published in August 2026; an individual frame sits either side of its material's median, and the last step in the measuring section is how to find out where yours sits. “Past” in the second column means past the cheekbone width, not past any published ceiling; the ceiling derived in the total-width section above is 7 mm (0.28 in) past for this face, which rows five, six and seven exceed — row five by a single millimetre of lens width, and that millimetre is what takes its blank from exactly 75.0 mm (2.95 in) to 75.8 mm (2.98 in). Row two is modelled as a true circle, which is its worst case: flattening the top rim, as the published exception describes, lowers B and therefore lowers both ED and MBS, so a flat-top version of that frame is strictly easier to glaze than the row shows."
+    },
+    {
+      "section": "Round-face glasses advice, by the date it was published",
+      "caption": "Seven years and eight months of eyeglass-fitting and round-face advice (Jan 2019 – Sep 2026), one published position per row, in date order",
+      "head": [
+        "Published",
+        "Kind of source",
+        "Fitting number it carried",
+        "What it told a round face to wear"
+      ],
+      "rows": [
+        [
+          "18 Jan 2019 (updated 6 Apr 2026)",
+          "Consumer eye-health reference",
+          "Lens 40 – 60 mm / 1.57 – 2.36 in; bridge 14 – 24 / 0.55 – 0.94; temple 120 – 150 / 4.72 – 5.91; example stamp 54-20-140",
+          "Nothing. The page is about sizes, not shapes."
+        ],
+        [
+          "12 Oct 2022",
+          "Anthropometric dataset — 4,082 men, 1,986 women",
+          "Face width 142.62 ± 6.22 mm / 5.61 ± 0.24 in (men); 133.77 ± 5.56 mm / 5.27 ± 0.22 in (women)",
+          "Nothing. It is a measurement study, not a fitting guide."
+        ],
+        [
+          "23 Aug 2023",
+          "Online optical retailer's size guide",
+          "Lens 40 – 60 mm / 1.57 – 2.36 in",
+          "Nothing."
+        ],
+        [
+          "15 May 2024",
+          "Peer-reviewed dispensing review",
+          "PD, and the frame's own PD, as the pair that has to be matched",
+          "Nothing."
+        ],
+        [
+          "5 Oct 2024",
+          "Optometry practice",
+          "None",
+          "Rectangular and angular frames, to make the face look sharper and longer."
+        ],
+        [
+          "25 Aug 2025 (reviewed 19 Aug 2025)",
+          "Consumer eye-health reference",
+          "Average adult PD 60 – 65 mm / 2.36 – 2.56 in; measure at a mirror about 8 in / 203 mm away",
+          "Nothing."
+        ],
+        [
+          "5 Nov 2025",
+          "Lens-laboratory technical guide",
+          "MBS = ED + (Frame PD − PD) + 2 mm; worked example 57 + 8 + 2 = 67 mm / 2.64 in; the consequence of falling short is that the lens will not cut out",
+          "Nothing."
+        ],
+        [
+          "13 Nov 2025",
+          "Value optical chain",
+          "Hinges at or above eye level elongate the face",
+          "Avoid square styles — they put a rounded face out of balance. Rounded frames if you want to exaggerate the roundness."
+        ],
+        [
+          "2 Apr 2026",
+          "Direct-to-consumer eyewear brand",
+          "None",
+          "Rectangle, square, geometric (hexagon, octagon), cat-eye, browline. Avoid round; avoid oval; avoid small frames; avoid transparent or skin-coloured frames."
+        ],
+        [
+          "17 Apr 2026",
+          "Hospital health article",
+          "Adult PD 50 – 70 mm / 1.97 – 2.76 in, average 63 mm / 2.48 in; the mirror-and-ruler method",
+          "Nothing."
+        ],
+        [
+          "May 2026",
+          "Dispensing training site",
+          "Decentration = (Frame PD − PD) / 2; keep it under 5 mm / 0.20 in per eye; near PD runs 3 – 4 mm smaller in total",
+          "Nothing."
+        ],
+        [
+          "10 Jun 2026",
+          "Lens-laboratory technical guide",
+          "The boxing system: A, B, DBL, and ED = twice the longest radius from the lens centre, never less than A",
+          "Nothing."
+        ],
+        [
+          "12 Jun 2026",
+          "Marketplace shopping guide",
+          "Lens 50 – 52 mm / 1.97 – 2.05 in; bridge 16 – 17 / 0.63 – 0.67; frame width within 2 – 4 mm / 0.08 – 0.16 in of the face",
+          "Nothing."
+        ],
+        [
+          "29 Jul 2026",
+          "Frame-fitting software, founder byline",
+          "Per-style lens width and depth; total width = 2 × lens + bridge + 2 × rim; worked example 2(54) + 19 + 3 + 3 = 133 mm / 5.24 in on a 138 mm / 5.43 in face; depth under about 40 mm / 1.57 in; past eight sides a polygon reads as a circle",
+          "Square first — more structure per millimetre than anything else. Small round wire is the mistake. A large round lens of 52 mm / 2.05 in or more, with a flat top or a strong brow bar, works."
+        ],
+        [
+          "23 Aug 2026",
+          "Frame-specification comparison site",
+          "Total width = 2 × lens + bridge + a flat 10 mm / 0.39 in per frame, then tested against measurement: median remainder by material over 3,942 retailer frame records — acetate 20 mm / 0.79 in, plastic 16 / 0.63, titanium 15 / 0.59, metal 13 / 0.51. States it cannot establish how any individual width was obtained.",
+          "Nothing."
+        ],
+        [
+          "14 Sep 2026",
+          "Lens supplier",
+          "Stock uncut blanks come in 65 / 70 / 75 mm — 2.56 / 2.76 / 2.95 in",
+          "Nothing."
+        ],
+        [
+          "Undated",
+          "Online optical retailer",
+          "Total frame width is measured end piece to end piece",
+          "Nothing."
+        ]
+      ],
+      "footnote": "One position per row, in publication-date order; the undated row is last because there is nothing to order it by. The third column is what each source actually published as a number, converted to inches at 25.4 mm to the inch, and it is never this page's own estimate. Where a source gave a worked example the example is reproduced rather than paraphrased. Where a page was updated after publication both dates are given, and the row is ordered by the original publication date."
+    }
+  ]
+}

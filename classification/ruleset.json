@@ -1,0 +1,178 @@
+{
+  "source": "https://knowyourfaceshape.com/about/",
+  "code_source": "lib/prototypes.ts (the constants the live classifier imports)",
+  "exported": "2026-09-19",
+  "classifier": {
+    "method": "Five features per face. Each feature is compared to each of the seven shape prototypes in units of its own spread (z = (x - mu) / sigma), weighted, and summed into one distance per shape. The smallest distance wins; the confidence shown on the site is the raw output of that comparison, rounded, never clamped.",
+    "landmark_count": 478,
+    "landmarks_used": 10,
+    "landmark_note": "MediaPipe Face Landmarker, 478 points; ten are used: hairline, chin tip, both cheekbones, both forehead edges, both jaw corners, both chin sides. MediaPipe x/y normalisation is undone before measuring."
+  },
+  "features": {
+    "R1": "face length / cheekbone width",
+    "R2": "forehead width / cheekbone width",
+    "R3": "jaw width / cheekbone width",
+    "A": "angle at the jaw corner, in degrees",
+    "C": "chin width / jaw width"
+  },
+  "scales": {
+    "note": "The detector measures landmark ratios; a tape measure measures different points. The two scales are related by a per-feature affine map (endpoint to endpoint), so z-scores are identical in both and either table is an exact description of the classifier. Numbers shown to users on the site are tape-measure-scale numbers.",
+    "detector": {
+      "prototypes_mu": {
+        "oval": {
+          "R1": 1.208,
+          "R2": 0.937,
+          "R3": 0.777,
+          "A": 136.1,
+          "C": 0.419
+        },
+        "round": {
+          "R1": 1.103,
+          "R2": 0.932,
+          "R3": 0.787,
+          "A": 142,
+          "C": 0.442
+        },
+        "square": {
+          "R1": 1.103,
+          "R2": 0.951,
+          "R3": 0.809,
+          "A": 127.9,
+          "C": 0.442
+        },
+        "oblong": {
+          "R1": 1.261,
+          "R2": 0.951,
+          "R3": 0.803,
+          "A": 133.8,
+          "C": 0.43
+        },
+        "heart": {
+          "R1": 1.182,
+          "R2": 0.978,
+          "R3": 0.759,
+          "A": 134.9,
+          "C": 0.385
+        },
+        "diamond": {
+          "R1": 1.195,
+          "R2": 0.91,
+          "R3": 0.759,
+          "A": 134.9,
+          "C": 0.385
+        },
+        "triangle": {
+          "R1": 1.169,
+          "R2": 0.91,
+          "R3": 0.837,
+          "A": 133.8,
+          "C": 0.43
+        }
+      },
+      "sigma": {
+        "R1": 0.048,
+        "R2": 0.022,
+        "R3": 0.026,
+        "A": 4.5,
+        "C": 0.019
+      }
+    },
+    "tape_measure": {
+      "prototypes_mu": {
+        "oval": {
+          "R1": 1.449,
+          "R2": 0.899,
+          "R3": 0.803,
+          "A": 121.957,
+          "C": 0.449
+        },
+        "round": {
+          "R1": 1.05,
+          "R2": 0.881,
+          "R3": 0.849,
+          "A": 132,
+          "C": 0.55
+        },
+        "square": {
+          "R1": 1.05,
+          "R2": 0.951,
+          "R3": 0.951,
+          "A": 108,
+          "C": 0.55
+        },
+        "oblong": {
+          "R1": 1.65,
+          "R2": 0.951,
+          "R3": 0.923,
+          "A": 118.043,
+          "C": 0.497
+        },
+        "heart": {
+          "R1": 1.35,
+          "R2": 1.05,
+          "R3": 0.72,
+          "A": 119.915,
+          "C": 0.3
+        },
+        "diamond": {
+          "R1": 1.399,
+          "R2": 0.8,
+          "R3": 0.72,
+          "A": 119.915,
+          "C": 0.3
+        },
+        "triangle": {
+          "R1": 1.301,
+          "R2": 0.8,
+          "R3": 1.08,
+          "A": 118.043,
+          "C": 0.497
+        }
+      },
+      "sigma": {
+        "R1": 0.182,
+        "R2": 0.081,
+        "R3": 0.12,
+        "A": 7.66,
+        "C": 0.083
+      },
+      "textbook_range": {
+        "R1": {
+          "min": 1.05,
+          "max": 1.65
+        },
+        "R2": {
+          "min": 0.8,
+          "max": 1.05
+        },
+        "R3": {
+          "min": 0.72,
+          "max": 1.08
+        },
+        "A": {
+          "min": 108,
+          "max": 132
+        },
+        "C": {
+          "min": 0.3,
+          "max": 0.55
+        }
+      }
+    }
+  },
+  "weights": {
+    "R1": 1.59,
+    "R2": 0.97,
+    "R3": 1.1,
+    "A": 0.85,
+    "C": 0.49
+  },
+  "weights_note": "Between-group / within-group variance ratios normalised to mean 1 on a 50-photo calibration set (oval 18 / oblong 12 / round 10 / square 6 / heart 1 / diamond 3 / triangle 0). C carries no shape signal in that set (ratio < 1) and is damped to 0.49 but never zeroed: weight 0 in the code means the feature could not be measured on that face.",
+  "manual_angle_boost": 1.5,
+  "manual_angle_boost_note": "A user-measured jaw angle is trusted over an estimated one: the A weight is multiplied by this factor when the user supplies their own measurement. Declared assumption, not a fitted result - the calibration set contains no same-person measured-vs-estimated angle pairs.",
+  "disclosed_limitations": [
+    "heart (n=1), diamond (n=3) and triangle (n=0) prototypes are interpolated along the literature ordering, not measured.",
+    "Measured jaw angle does not separate square from round in the calibration set (both group means near 133 degrees), while the literature separates them by 24 degrees. The A ordering follows the literature because the classification system is built on it; this is why the site reports mixed-shape hints and confidence instead of a single answer.",
+    "Calibration data: 50 local photographs, MediaPipe GPU inference, single-annotator draft labels."
+  ]
+}

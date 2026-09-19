@@ -1,0 +1,118 @@
+{
+  "slug": "how-to-contour-a-square-face",
+  "url": "https://knowyourfaceshape.com/blog/how-to-contour-a-square-face/",
+  "title": "Contour for a Square Face: The Four Corners, and the One Corner Worth Keeping",
+  "tables": [
+    {
+      "section": "Seven-plus years of square-face placement, side by side",
+      "caption": "Square-face contour placement as published, oldest first — the four corners hold in every row, and the cheek stroke is where the movement is",
+      "head": [
+        "Published",
+        "Where it appeared",
+        "Shade depth",
+        "The four corners",
+        "The cheek stroke"
+      ],
+      "rows": [
+        [
+          "April 2019",
+          "100 Percent Pure — a skincare and cosmetics brand's how-to blog",
+          "1–1.5 deeper",
+          "Outer flanks of the forehead shaded from the hairline down; substantial contour along the outer edges of the jawline where the face comes to a point, to soften the angles and pull attention to the lips.",
+          "From the cheekbone right into the hollow of the cheek, usually in alignment with the ear. Highlight goes on first, concealer no more than two shades lighter; build by adding product to the brush, never to the face. Angled contour brush, damp non-latex blender."
+        ],
+        [
+          "April 12, 2020",
+          "Kendra Powell — an independent artist's placement guide",
+          "none given",
+          "Outer edges only; stay away from the top of the forehead and from the chin. The jaw fork, named: trade the jaw's highlight for contour shade to de-emphasize it, or keep a soft highlight on the back of the jawline to enhance the square.",
+          "Angled toward the line between nose and upper lip, or toward the corners of the mouth, to fake length; the typical stop is the outside edge of the iris. Round the contours, keep them soft, less product, no stark lines."
+        ],
+        [
+          "May 30, 2025",
+          "Charlotte Tilbury — a luxury cosmetics house",
+          "none given",
+          "Product glides across the whole perimeter of the face to round the shape off; the wand works in diagonal motions on all four corners — the temples and the squarest points of the jaw. The stated aim is not to sculpt but to soften.",
+          "A small C-shape from the top of the ear around the cheekbone, which makes the cheeks look rounder; soft circular blending throughout."
+        ],
+        [
+          "April 7, 2026",
+          "Test My Face — a face-analysis site",
+          "none given",
+          "The corners where the hairline meets the temples plus the two jaw angles — it calls them the four corners — rounded, with an illusion of length added down the centre: a matte highlight on the mid forehead, nose bridge and chin as one vertical line of light.",
+          "Under the cheekbone and down toward the jaw, blended inward rather than down, which narrows the mid and lower face into a taper. Blush runs along the same path in a neutral tone; brows get a soft rounded arch."
+        ],
+        [
+          "July 29, 2026",
+          "Makeup Check AI — an AI face-shape site",
+          "1–2 deeper, cool-toned",
+          "Forehead corners and jawline, worked as one route: temples down to the outer brow, then the jaw corners traced and blended toward the earlobe. A blurring primer goes on first around jaw and forehead to diffuse the angles.",
+          "Under the cheekbone, swept from ear toward mouth and stopping halfway; kept away from the nose, because a contour that fades out at mid-cheek keeps the lift. Dense brush or damp sponge, blended upward in circles."
+        ],
+        [
+          "July 30, 2026",
+          "e.l.f. Cosmetics — a mass-market brand",
+          "none given",
+          "Sides of the forehead and corners of the jawline, to dial down width while keeping the face's naturally strong structure — the closest any row comes to naming section one's fork without naming it.",
+          "Just under the cheekbones, blended upward for a lifted effect; highlight on the nose bridge and the tops of the cheekbones. Blend, blend, blend."
+        ]
+      ],
+      "footnote": "Dates: five of the six were read off the rendered page; the July 2026 brand row carries its date only in machine-readable form (published 30 July 2026, modified 1 September 2026), and the April 2019 row prints no day at all — its month and year appear once, in the footer tag list, which makes the oldest end of the span a footer tag rather than a dateline. Everything between them prints a full date in the body. Checked and excluded rather than padded into rows: a July 2024 artist guide that defines the square face and gives a tape-measure method for finding it but contains no square-face placement; a mineral-cosmetics guide with placement and no date anywhere on the page; a mass-brand magazine page taking the opposite stance — enhance the chiselled features rather than soften them — also with no date; an education platform whose only face-shape contour article covers the round face and not this one; and a recipe-style platform whose page could not be retrieved at all. No links are given to any source named in the table."
+    },
+    {
+      "section": "Every number on this page, in millimetres and inches",
+      "caption": "The three-court arithmetic at seven face lengths, both units — find your length, read your court, and the 5 mm stop is the same for everyone",
+      "head": [
+        "Face length",
+        "One court = length ÷ 3",
+        "One court, inches",
+        "The 5 mm stop"
+      ],
+      "rows": [
+        [
+          "105 mm = 4.13 in",
+          "35.00 mm",
+          "1.38 in",
+          "0.20 in"
+        ],
+        [
+          "110 mm = 4.33 in",
+          "36.67 mm",
+          "1.44 in",
+          "0.20 in"
+        ],
+        [
+          "115 mm = 4.53 in",
+          "38.33 mm",
+          "1.51 in",
+          "0.20 in"
+        ],
+        [
+          "120 mm = 4.72 in",
+          "40.00 mm",
+          "1.57 in",
+          "0.20 in"
+        ],
+        [
+          "125 mm = 4.92 in",
+          "41.67 mm",
+          "1.64 in",
+          "0.20 in"
+        ],
+        [
+          "130 mm = 5.12 in",
+          "43.33 mm",
+          "1.71 in",
+          "0.20 in"
+        ],
+        [
+          "135 mm = 5.31 in",
+          "45.00 mm",
+          "1.77 in",
+          "0.20 in"
+        ]
+      ],
+      "footnote": "Every figure is exact division by 25.4 and then rounded to two decimals — 105 ÷ 25.4 = 4.1339, so 4.13; 35 ÷ 25.4 = 1.3780, so 1.38 — so any cell can be re-derived with one division. The stop column repeats because it is a constant: 5 mm ÷ 25.4 = 0.19685, so 0.20 in, whatever the face length. A court is the classical three-part vertical division of the face, measured as described in the text; the even split is the reference case, and the point of measuring is to find which of your three courts departs from it, because that is the court whose highlight gets the shortened stop."
+    }
+  ]
+}
