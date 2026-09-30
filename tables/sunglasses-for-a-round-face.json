@@ -1,0 +1,115 @@
+{
+  "slug": "sunglasses-for-a-round-face",
+  "url": "https://knowyourfaceshape.com/blog/sunglasses-for-a-round-face/",
+  "title": "Sunglasses for a Round Face: the Five Frame Rows, in Millimetres",
+  "tables": [
+    {
+      "section": "Table A: the five frame rows across five outlines, in millimetres",
+      "caption": "Rows are the five parameters that decide whether a pair of sunglasses can be worn from morning to evening. Columns are five of this site's outlines. Every cell is millimetres, with inches in parentheses. The table is worked at a cheekbone line of 136 mm (5.35 in), a round figure chosen just inside the adult band this site publishes, 128.2 – 148.8 mm (5.05 – 5.86 in), whose mid-point is 138.5 mm (5.45 in); the second table gives the only row that moves when your width moves. Cells are ranges wherever the published readings disagree, and every upper edge in the height row is arithmetic done by this site rather than a number lifted from a chart — the inputs and the subtraction are in the section that builds the ceiling, and they are theoretical ceilings: they are not rounded to the lens heights the trade stocks. The two outlines that are not columns here land inside the bands that are: at this same width their ceilings come out at 48 mm (1.89 in) and 47 mm (1.85 in).",
+      "head": [
+        "Frame parameter",
+        "Round",
+        "Square",
+        "Oblong",
+        "Heart",
+        "Diamond"
+      ],
+      "rows": [
+        [
+          "Total width, end piece to end piece",
+          "140 – 156 mm (5.51 – 6.14 in)",
+          "140 – 156 mm (5.51 – 6.14 in)",
+          "140 – 156 mm (5.51 – 6.14 in)",
+          "140 – 156 mm (5.51 – 6.14 in)",
+          "140 – 156 mm (5.51 – 6.14 in)"
+        ],
+        [
+          "Lens width, first stamped number",
+          "50 – 56 mm (1.97 – 2.20 in)",
+          "50 – 56 mm (1.97 – 2.20 in)",
+          "50 – 56 mm (1.97 – 2.20 in)",
+          "50 – 56 mm (1.97 – 2.20 in)",
+          "50 – 56 mm (1.97 – 2.20 in)"
+        ],
+        [
+          "Lens height, almost never stamped",
+          "40 – 44 mm (1.57 – 1.73 in)",
+          "40 – 44 mm (1.57 – 1.73 in)",
+          "44 – 51 mm (1.73 – 2.01 in)",
+          "40 – 47 mm (1.57 – 1.85 in)",
+          "40 – 48 mm (1.57 – 1.89 in)"
+        ],
+        [
+          "Bridge width, second stamped number",
+          "16 – 18 mm (0.63 – 0.71 in)",
+          "16 – 18 mm (0.63 – 0.71 in)",
+          "16 – 18 mm (0.63 – 0.71 in)",
+          "16 – 18 mm (0.63 – 0.71 in)",
+          "16 – 18 mm (0.63 – 0.71 in)"
+        ],
+        [
+          "Temple length, third stamped number",
+          "145 – 150 mm (5.71 – 5.91 in)",
+          "145 – 150 mm (5.71 – 5.91 in)",
+          "145 – 150 mm (5.71 – 5.91 in)",
+          "145 – 150 mm (5.71 – 5.91 in)",
+          "145 – 150 mm (5.71 – 5.91 in)"
+        ]
+      ]
+    },
+    {
+      "section": "The one row that follows your width",
+      "caption": "The ceiling from Table A, recomputed at three cheekbone lines instead of one. Read down for your outline, across for your width. The inches are this site's conversions, since the derivation prints none; every millimetre is derived by this site rather than measured, and the derivation is in the next section.",
+      "head": [
+        "Outline",
+        "Cheekbone line 128 mm (5.04 in)",
+        "Cheekbone line 136 mm (5.35 in)",
+        "Cheekbone line 148 mm (5.83 in)"
+      ],
+      "rows": [
+        [
+          "round",
+          "41 mm (1.61 in)",
+          "44 mm (1.73 in)",
+          "48 mm (1.89 in)"
+        ],
+        [
+          "square",
+          "41 mm (1.61 in)",
+          "44 mm (1.73 in)",
+          "48 mm (1.89 in)"
+        ],
+        [
+          "oblong",
+          "47 mm (1.85 in)",
+          "51 mm (2.01 in)",
+          "56 mm (2.20 in)"
+        ],
+        [
+          "heart",
+          "44 mm (1.73 in)",
+          "47 mm (1.85 in)",
+          "52 mm (2.05 in)"
+        ],
+        [
+          "diamond",
+          "45 mm (1.77 in)",
+          "48 mm (1.89 in)",
+          "53 mm (2.09 in)"
+        ],
+        [
+          "oval",
+          "45 mm (1.77 in)",
+          "48 mm (1.89 in)",
+          "53 mm (2.09 in)"
+        ],
+        [
+          "triangle",
+          "43 mm (1.69 in)",
+          "47 mm (1.85 in)",
+          "51 mm (2.01 in)"
+        ]
+      ]
+    }
+  ]
+}

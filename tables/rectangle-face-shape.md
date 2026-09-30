@@ -1,0 +1,17 @@
+# Rectangle Face Shape: What It Is, How to Measure It, and What Suits It
+
+Live page: <https://knowyourfaceshape.com/blog/rectangle-face-shape/>
+
+## The table: five checks, seven shapes
+
+*Typical bands per shape — published centre ± one standard deviation, tape scale. Ratios are unit-free; the jaw angle is in degrees.*
+
+| Check | Oval | Round | Square | Oblong (rectangle family) | Heart | Diamond | Triangle |
+|---|---|---|---|---|---|---|---|
+| Face length ÷ cheekbones | 1.27 – 1.63 | 0.87 – 1.23 | 0.87 – 1.23 | 1.47 – 1.83 | 1.17 – 1.53 | 1.22 – 1.58 | 1.12 – 1.48 |
+| Forehead ÷ cheekbones | 0.82 – 0.98 | 0.80 – 0.96 | 0.87 – 1.03 | 0.87 – 1.03 | 0.97 – 1.13 | 0.72 – 0.88 | 0.72 – 0.88 |
+| Jaw ÷ cheekbones | 0.68 – 0.92 | 0.73 – 0.97 | 0.83 – 1.07 | 0.80 – 1.04 | 0.60 – 0.84 | 0.60 – 0.84 | 0.96 – 1.20 |
+| Jaw angle | 114 – 130° | 124 – 140° | 100 – 116° | 110 – 126° | 112 – 128° | 112 – 128° | 110 – 126° |
+| Chin taper (chin width ÷ jaw width) | 0.37 – 0.53 | 0.47 – 0.63 | 0.47 – 0.63 | 0.41 – 0.58 | 0.22 – 0.38 | 0.22 – 0.38 | 0.41 – 0.58 |
+
+> How to read it honestly, because the bands are not seven boxes a face drops into — the four notes under the table are part of the reading.

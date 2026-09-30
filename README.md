@@ -8,7 +8,7 @@ The reusable data behind [knowyourfaceshape.com](https://knowyourfaceshape.com/)
 |---|---|
 | [`classification/ruleset.json`](./classification/ruleset.json) | The full classification rule set: seven shape prototypes on two measurement scales, per-feature spread, weights, the manual-angle boost, and the disclosed limitations. These are the same constants the live classifier imports — the site's [/about](https://knowyourfaceshape.com/about/) page publishes them in prose. |
 | [`classification/ruleset.md`](./classification/ruleset.md) | The same rule set as a human-readable table. |
-| [`tables/`](./tables/README.md) | Every dated comparison table the site publishes — 27 tables, 202 rows across 14 articles — as Markdown (reading) and JSON (machines), one file pair per article, each linked back to the live page. |
+| [`tables/`](./tables/README.md) | Every dated comparison table the site publishes — 74 tables, 570 rows across 31 articles — as Markdown (reading) and JSON (machines), one file pair per article, each linked back to the live page. |
 
 ## What these tables are
 
@@ -16,7 +16,7 @@ One row per table is one **published** position: the date it was published, what
 
 ## Provenance and freshness
 
-Exported from the article sources on 2026-09-19. The rule set carries its own calibration history and limitations inside the JSON (`disclosed_limitations`) — they are part of the data, not a footnote: three of the seven prototypes are interpolated rather than measured, and the calibration set cannot separate square from round by jaw angle alone.
+Exported from the article sources on 2026-09-19; refreshed 2026-09-30. The rule set carries its own calibration history and limitations inside the JSON (`disclosed_limitations`) — they are part of the data, not a footnote: three of the seven prototypes are interpolated rather than measured, and the calibration set cannot separate square from round by jaw angle alone.
 
 ## License
 

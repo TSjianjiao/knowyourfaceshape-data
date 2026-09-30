@@ -1,0 +1,415 @@
+{
+  "slug": "earring-size-chart",
+  "url": "https://knowyourfaceshape.com/blog/earring-size-chart/",
+  "title": "Earring Size Chart: The Millimetres Against Your Own Jaw",
+  "tables": [
+    {
+      "section": "Earring size for face shape: a chart indexed by a number you have",
+      "caption": "Jaw width in millimetres, from the jaw ratio this site publishes, at three cheekbone widths; the ladder runs from 0.06 below the published band to 0.06 above it",
+      "head": [
+        "Jaw ratio",
+        "Jaw width at 128.2 mm",
+        "at 136 mm",
+        "at 136 mm, in inches",
+        "at 148.8 mm"
+      ],
+      "rows": [
+        [
+          "0.66",
+          "84.6",
+          "89.8",
+          "3.53",
+          "98.2"
+        ],
+        [
+          "0.72",
+          "92.3",
+          "97.9",
+          "3.86",
+          "107.1"
+        ],
+        [
+          "0.78",
+          "100.0",
+          "106.1",
+          "4.18",
+          "116.1"
+        ],
+        [
+          "0.84",
+          "107.7",
+          "114.2",
+          "4.50",
+          "125.0"
+        ],
+        [
+          "0.90",
+          "115.4",
+          "122.4",
+          "4.82",
+          "133.9"
+        ],
+        [
+          "0.96",
+          "123.1",
+          "130.6",
+          "5.14",
+          "142.8"
+        ],
+        [
+          "1.02",
+          "130.8",
+          "138.7",
+          "5.46",
+          "151.8"
+        ],
+        [
+          "1.08",
+          "138.5",
+          "146.9",
+          "5.78",
+          "160.7"
+        ],
+        [
+          "1.14",
+          "146.1",
+          "155.0",
+          "6.10",
+          "169.6"
+        ]
+      ],
+      "footnote": "Every cell is one multiplication — ratio × cheekbone width — carried out exactly and rounded to one decimal, so any cell can be re-derived on the spot. The inch column is the product before rounding divided by 25.4 (0.66 × 136 = 89.76, and 89.76 ÷ 25.4 = 3.5339, so 3.53); carry the printed 89.8 through that division instead and it comes out 3.54. That is why the division is taken on the product. The published band for this ratio on a soft tape is 0.72 to 1.08, with a published standard deviation of 0.12; the ladder runs to 0.66 and 1.14, which is 0.06 — half a deviation — past each published end, and that overhang is this page's own choice rather than a measured range. Two rows sit exactly on the published ends, which is why the step is 0.06 and not 0.05. The seven published centres on this scale are 0.72, 0.72, 0.80, 0.85, 0.92, 0.95 and 1.08; they are deliberately not printed as a column, because a size question indexed by a category name is the question this page is not answering, and because two of those centres are shared and three are interpolated — see the limits section. The outer columns and the two end rows are combinations, not typical faces: the top row at the wide column implies a jaw of 169.6 mm, which is more than a tape finds on anyone. Read one row at your own width."
+    },
+    {
+      "section": "How big should hoop earrings be, once the answer is a ratio",
+      "caption": "What a printed diameter does to the outline at jaw level — the pair's width divided by cheekbone width, and the answer counted in this rule set's own published standard deviations",
+      "head": [
+        "Printed diameter",
+        "The pair, in mm",
+        "Ratio added at 128.2 mm",
+        "at 136 mm",
+        "at 148.8 mm",
+        "Deviations at 136 mm"
+      ],
+      "rows": [
+        [
+          "4 mm / 0.16 in",
+          "8.0",
+          "0.062",
+          "0.059",
+          "0.054",
+          "0.49"
+        ],
+        [
+          "6 mm / 0.24 in",
+          "12.0",
+          "0.094",
+          "0.088",
+          "0.081",
+          "0.74"
+        ],
+        [
+          "8 mm / 0.31 in",
+          "16.0",
+          "0.125",
+          "0.118",
+          "0.108",
+          "0.98"
+        ],
+        [
+          "10 mm / 0.39 in",
+          "20.0",
+          "0.156",
+          "0.147",
+          "0.134",
+          "1.23"
+        ],
+        [
+          "12 mm / 0.47 in",
+          "24.0",
+          "0.187",
+          "0.176",
+          "0.161",
+          "1.47"
+        ],
+        [
+          "14 mm / 0.55 in",
+          "28.0",
+          "0.218",
+          "0.206",
+          "0.188",
+          "1.72"
+        ],
+        [
+          "16 mm / 0.63 in",
+          "32.0",
+          "0.250",
+          "0.235",
+          "0.215",
+          "1.96"
+        ],
+        [
+          "20 mm / 0.79 in",
+          "40.0",
+          "0.312",
+          "0.294",
+          "0.269",
+          "2.45"
+        ],
+        [
+          "25 mm / 0.98 in",
+          "50.0",
+          "0.390",
+          "0.368",
+          "0.336",
+          "3.06"
+        ],
+        [
+          "30 mm / 1.18 in",
+          "60.0",
+          "0.468",
+          "0.441",
+          "0.403",
+          "3.68"
+        ],
+        [
+          "40 mm / 1.57 in",
+          "80.0",
+          "0.624",
+          "0.588",
+          "0.538",
+          "4.90"
+        ],
+        [
+          "50 mm / 1.97 in",
+          "100.0",
+          "0.780",
+          "0.735",
+          "0.672",
+          "6.13"
+        ]
+      ],
+      "footnote": "Cells are 2 × diameter ÷ cheekbone width, exact and then rounded to three decimals; the last column is the same quotient before rounding, at 136 mm, divided by the published standard deviation of the ratio, 0.12 on a tape. That count is scale-invariant — the same quotient taken on the detector's own scale (0.026 for the same quantity) gives the identical figure, which is how this table was cross-checked — but the ratio itself is not, so the deviation column is the one number here that survives a change of measurement scale. Every row is the full value, which assumes the ornament's widest level sits on the line between the jaw corners; the offsets and what happens when it does not are in the limits section, where the 20 mm row is shown at 2.45 deviations and at 2.12 and where a hoop entirely above the line contributes nothing to it. The 8 mm row is 0.98 deviations, and one whole deviation at the working width is a diameter of 8.16 mm (0.32 in), 7.69 mm at the narrow end of the published cheekbone band and 8.93 mm at the wide end."
+    },
+    {
+      "section": "Why an 8mm earring size is a standard deviation and 40 mm is a third of a jaw",
+      "caption": "A printed diameter as a share of the jaw line it hangs beside, at the 136 mm cheekbone width and three jaw ratios",
+      "head": [
+        "Printed diameter",
+        "One against a 0.72 jaw",
+        "against a 0.90 jaw",
+        "against a 1.08 jaw",
+        "The pair at 0.90",
+        "The pair at 1.08"
+      ],
+      "rows": [
+        [
+          "4 mm / 0.16 in",
+          "4.1%",
+          "3.3%",
+          "2.7%",
+          "6.5%",
+          "5.4%"
+        ],
+        [
+          "6 mm / 0.24 in",
+          "6.1%",
+          "4.9%",
+          "4.1%",
+          "9.8%",
+          "8.2%"
+        ],
+        [
+          "8 mm / 0.31 in",
+          "8.2%",
+          "6.5%",
+          "5.4%",
+          "13.1%",
+          "10.9%"
+        ],
+        [
+          "10 mm / 0.39 in",
+          "10.2%",
+          "8.2%",
+          "6.8%",
+          "16.3%",
+          "13.6%"
+        ],
+        [
+          "12 mm / 0.47 in",
+          "12.3%",
+          "9.8%",
+          "8.2%",
+          "19.6%",
+          "16.3%"
+        ],
+        [
+          "14 mm / 0.55 in",
+          "14.3%",
+          "11.4%",
+          "9.5%",
+          "22.9%",
+          "19.1%"
+        ],
+        [
+          "16 mm / 0.63 in",
+          "16.3%",
+          "13.1%",
+          "10.9%",
+          "26.1%",
+          "21.8%"
+        ],
+        [
+          "20 mm / 0.79 in",
+          "20.4%",
+          "16.3%",
+          "13.6%",
+          "32.7%",
+          "27.2%"
+        ],
+        [
+          "25 mm / 0.98 in",
+          "25.5%",
+          "20.4%",
+          "17.0%",
+          "40.8%",
+          "34.0%"
+        ],
+        [
+          "30 mm / 1.18 in",
+          "30.6%",
+          "24.5%",
+          "20.4%",
+          "49.0%",
+          "40.8%"
+        ],
+        [
+          "40 mm / 1.57 in",
+          "40.8%",
+          "32.7%",
+          "27.2%",
+          "65.4%",
+          "54.5%"
+        ],
+        [
+          "50 mm / 1.97 in",
+          "51.1%",
+          "40.8%",
+          "34.0%",
+          "81.7%",
+          "68.1%"
+        ]
+      ],
+      "footnote": "Jaws are 0.72 × 136 = 97.9 mm, 0.90 × 136 = 122.4 mm and 1.08 × 136 = 146.9 mm, the published lower end, the middle row and the published upper end of the first table's ladder, and each cell is diameter ÷ jaw × 100, or twice the diameter for the last two columns, exact and then rounded to one decimal. Those three are rows of a ladder rather than three people: a jaw of 146.9 mm beside a cheekbone width of 136 mm is a jaw wider than the face above it, which is what the published top of this band describes. Read against the 128.2 mm and 148.8 mm columns of the first table instead and every cell in this one scales by 136 ÷ 128.2 = 1.061 or by 136 ÷ 148.8 = 0.914 — 6.1 per cent of itself upward, 8.6 per cent downward — which is the arithmetic consequence of a cheekbone width you have measured being different from the working line used here. The columns are shares of a line at one level, and an ornament is widest at one level chosen for it; where the two do not coincide is the offset in the limits section. Nothing here is a perceptual quantity: it ends where the ornament's share of a measured line ends."
+    },
+    {
+      "section": "What has been printed about this, in date order",
+      "caption": "Same-subject positions read on 29 September 2026 — ten from inside the ten highest-ranked positions, five alongside them, and one book — in order of publication",
+      "head": [
+        "Published",
+        "What it is",
+        "The statement, as printed",
+        "What it leaves you holding"
+      ],
+      "rows": [
+        [
+          "1901, imprint year and nothing else",
+          "A printed manual of beauty and dress for women",
+          "Its earring passage argues from weight: the diamonds' “weight is none the less bad for the lobe, and by lengthening it, they give it an ungraceful shape”, and the advice to “make the fastening or link as short as possible in such a way as to diminish the weight of the jewel”",
+          "A size discussion with no size figure. The word millimetre appears nowhere in the book, and the two earring passages contain no number at all — the digits on those pages are the page numbers. Earring bulk is treated as load on an ear, and a face is discussed in a different chapter entirely"
+        ],
+        [
+          "21 December 2025, printed on the page and in its structured data",
+          "A jeweller's sizing guide, ranked third",
+          "A table headed “Style Type / Common Size (mm) / Visual Description / Best For”, whose Best For column is filled with piercing positions and with “Small Lobes”, and whose last hoop row runs 30mm - 50mm+ with the words “Jawline length” in its description column",
+          "Twenty-nine millimetre figures, every one of them attached to an object, and the only use of a facial line as a size description anywhere in the set — a phrase in a column, on a row chosen for evening wear, with no number asked of the line it names. The same page does ask you to measure yourself: a ruler from the piercing hole to the bottom edge of the lobe, add 1mm for a snug fit. It is the set's one self-measurement and it is of an ear. The word for a face appears on the page zero times, under both counting methods used here"
+        ],
+        [
+          "25 February 2026, in its structured data only; the page carries no visible date",
+          "A diamond jeweller's size guide, ranked fifth",
+          "“Compact hoops (10–20mm) complement longer faces, while medium diameters (30–40mm) tend to flatter most face shapes”, with a table column reading “all face shapes”; its hoop ladder runs from 8mm–10mm huggies to “60mm+”, and elsewhere the page says a design's lowest point determines whether the earring “sits at the jawline”, falls at the neck, or moves closer to the shoulder",
+          "The join, at last — a millimetre band and a face word in one sentence — and nothing under it: no landmark, no ratio, no division, and no quantity a reader supplies. It is the only position in the set that names the jaw line as a level and millimetres as sizes, and it keeps the two in different sentences. The 60 mm at the top of its ladder is a band label; at the working width of the first table it is 49.0 per cent of a middle-row jaw line"
+        ],
+        [
+          "19 March 2026, printed on the page and in its structured data",
+          "A stoneseller's guide to men's sizing, ranked thirteenth",
+          "“…hoops around 12 mm to 14 mm can create balance” for a round face, and separately “A 3 mm or 4 mm stud works well for minimal fashion… 5 mm or 6 mm… 7 mm or 8 mm…”",
+          "The only place in the set where a face name and a hoop diameter sit in one sentence with a number attached — and its own face table gives its other three outlines adjectives and no millimetres. Balance is asserted, not defined, so 12 to 14 mm cannot be recomputed or argued with"
+        ],
+        [
+          "7 April 2026, printed on the page, in its metadata and in its structured data; it also carries 12 August 2026 as a revision",
+          "A diamond stud sizing page, ranked sixth, and the longest readable text in the set",
+          "“…1.5 carat… suit medium to larger earlobes”, and the face sentences are of the form “complement your face and ear shape”",
+          "3,952 words, no tables, sizes indexed by carat weight. Two face words, both qualitative, and fifteen millimetre figures spent on stone diameters"
+        ],
+        [
+          "8 June 2026, printed on the page and in its structured data",
+          "A piercing retailer's explainer on gauge, ranked fourth",
+          "104 millimetre figures in prose, no tables, all of them for the thickness of a wire",
+          "The densest millimetre text in the top ten. The only occurrences of the word face in it are navigation labels; a reader leaves knowing the wire, not the fit"
+        ],
+        [
+          "1 September 2026, in its structured data only; it stamps 28 September 2026 as revised",
+          "A jewellery guide's gauge page, ranked eleventh",
+          "A table headed “Gauge / Millimeters / Inches / Typical Use”",
+          "One of only two pages in the set that print the word inches beside millimetres — and what the two columns convert is the thickness of a wire. Stripped of social-network navigation and of stylesheet variable names, it carries no occurrence of the word face at all, so the row a reader might expect to be told what 1.2 mm does to an outline is not about outlines"
+        ],
+        [
+          "No date on the page or in its structured data",
+          "A stud specialist's page, ranked first, whose chart is not in the text layer",
+          "Read through a browser: 835 words of visible text, 0 millimetre figures, 0 tables, 0 occurrences of the word face",
+          "The highest-ranked position on this subject, and this site could not read its numbers by either path available. Which is a fact about the reading, not about the page: it may well print millimetres where a table is drawn rather than written"
+        ],
+        [
+          "No date on the page or in its structured data",
+          "A small label's three-table sizing page, ranked second, and the most millimetre-dense readable row",
+          "Gauge, wire length and hoop inner diameter all in millimetres, 83 of them, with centimetres used twice for hoop inner diameter",
+          "A complete hardware catalogue and zero occurrences of the word face. Nothing in it is wrong; nothing in it is about a face either, which is the gap the rest of this page is filling"
+        ],
+        [
+          "No date on the page or in its structured data",
+          "A diamond house's page titled as a measurement guide, ranked seventh",
+          "Read by both paths and returning 200: 1,553 words by one count, 1,053 by the other, 0 millimetre figures, 0 tables",
+          "A page that invites you to measure and puts its comparison somewhere other than its text. Note what it does not say: it is not read as lacking numbers, only as not stating them where this site could read"
+        ],
+        [
+          "No date on the page or in its structured data",
+          "A fashion-jewellery sizing page whose earring table is four letters wide, ranked eighth",
+          "Four rows labelled S, M, L and XL, with 8 millimetre figures inside the table and 4 outside it, and hoops given in centimetres from 1-2 cm to 6 cm+",
+          "The size system a shopper meets most often: letters. The 82 occurrences of the string face in its source are all cascading stylesheet variable names; stripped out, the count is zero"
+        ],
+        [
+          "No date on the page or in its structured data",
+          "A fashion-jewellery guide whose two tables are keyed to the piercing, ranked ninth",
+          "Hoop inner diameter by placement — standard lobe 8mm+, second lobe 6mm - 7mm, helix 6mm - 8mm, tragus 5mm - 6mm — and a second table giving wire thickness by gauge, 20 gauge = 0.8 mm through 16 gauge = 1.2 mm, with inches as fractions against five hardware lengths from 5 to 12 mm",
+          "Thirty millimetre figures in the first table and eight in the second, every one keyed to which part of the ear the object passes through, and the only fractional-inch column in the set that sits beside a millimetre column inside one table. The word face returns zero. A reader who wants the largest number in it — 12 mm — against a jaw line has to bring the jaw line"
+        ],
+        [
+          "No date on the page or in its structured data",
+          "A jeweller's carat-to-placement page, ranked tenth",
+          "A section headed “The practical selection formula: matching lobe anatomy and face shape”, whose formula runs on thin versus plump lobes; its one sentence joining a diameter to a face reads “Measuring approximately 7.4mm in diameter, the stone acts as a major focal point on the face”",
+          "The word formula and a heading with face shape in it, and beneath them an instruction to assess skin thickness. A focal point on a face is a location, not a proportion — and this page deliberately stops following that page at that line"
+        ],
+        [
+          "No date on the page or in its structured data",
+          "A diamond jeweller's guide, ranked twelfth, and the row with the most face words in the set",
+          "Twelve occurrences of the word face in sizing advice of the form: a round face should “opt for slightly longer earrings like drop styles or larger studs”, an oval face finds “most earring sizes work well”, a heart-shaped face suits “smaller diamond sizes or medium hoops”, a square face wants “larger diamonds or rounded earrings”",
+          "The far pole of the set: every outline named, no number given. Twelve face words and eight millimetre figures, in a page where the two never meet — zero sentences in which they share ground"
+        ],
+        [
+          "No date on the page or in its structured data",
+          "A piercing retailer's gauge reference, ranked fourteenth",
+          "A three-column ladder headed gauge, inches as a decimal and millimetres, running from 20g at 0.81 mm to two inches at 51 mm, beside a second table of standard gauges by piercing type",
+          "Thirty-four millimetre figures inside that ladder, with a column of decimal inches beside them, every row the external diameter of a piece of metal and the word face occurring zero times. Its largest row, 51 mm, is 41.7 per cent of a middle-row jaw line taken as a single diameter — the biggest number any of the fifteen puts in a size table, and nothing in it reaches past the object"
+        ],
+        [
+          "No date on the page or in its structured data",
+          "A pearl merchant's three-table page, ranked fifteenth",
+          "87 millimetre figures for pearl diameters, and one sentence explaining why size reads differently on a face: a diameter “is especially noticeable because the pearl sits beside the face and is seen at conversational distance”",
+          "The set's best description of the mechanism and no ratio in it. The pearl is located beside the face, which is true and unquantified; nothing here tells you beside which line, or against what width"
+        ]
+      ],
+      "footnote": "Sorted by publication date, with the nine positions carrying no date of their own placed last and in rank order; the two structured-data-only rows are stated rather than smoothed over, because they are the difference between a page that was dated and a page that was stamped. The span runs from the 1901 imprint to 1 September 2026 — one hundred and twenty-five years — while the six dated web rows cover 254 days, and inside the ten highest-ranked positions the dated rows cover 169 days from 21 December 2025 to 8 June 2026. Three addresses were removed from the list before it was read: two image results and one page about ring sizes, which is why fifteen content pages are described as ten ranked positions. Two positions were read by a browser where a text fetch was refused, and their figures come from that reading rather than a second one; one of the fifteen, the twelfth row, could not be re-resolved to a stable address on a second pass, so its reading is from the first pass of the same day and was not reproduced. The word counts in the paragraph above are from a fresh pass over the same saved pages, with scripts, styles and tags stripped and each term matched at word boundaries. No row here has been replaced with a substitute, and none of the readings is quoted at length beyond the clause the position is being judged on."
+    }
+  ]
+}

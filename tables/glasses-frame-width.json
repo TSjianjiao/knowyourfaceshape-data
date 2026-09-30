@@ -1,0 +1,207 @@
+{
+  "slug": "glasses-frame-width",
+  "url": "https://knowyourfaceshape.com/blog/glasses-frame-width/",
+  "title": "Glasses Frame Width: One Word, Four Points, and the Thirteen Millimetres Between Two Sentences",
+  "tables": [
+    {
+      "section": "What one stamped size is worth, measured four ways",
+      "caption": "Rows are stamped sizes — the two numbers a frame prints, lens width then bridge width — all inside the published adult bands of 40 to 60 mm for a lens and 14 to 24 mm (0.55 to 0.94 in) for a bridge. Columns are quantities a front has whether or not anybody measures it. Column two is lens plus bridge, the sum this site's page about the stamped numbers calls the frame PD. Column three is two lenses plus the bridge; that is how this site reads a published hinge-to-hinge ladder. Columns four and five add a pair end-piece allowance to column three: 13 mm (0.51 in) is the metal median and 20 mm (0.79 in) the acetate median, both published by this site in August 2026 from 3,942 retailer frame records, and printed on no frame anywhere. Column six subtracts a 136 mm (5.35 in) cheekbone line, the middle case this site works on its heart-shaped-face page; the published adult cheekbone band runs 128.2 to 148.8 mm (5.05 to 5.86 in), so every figure in that column moves by +7.8 mm (0.31 in) at the band's lower edge and −12.8 mm (0.50 in) at its upper edge. The rows are arithmetic on two stamped digits and one published assumption, not stock items this site measured.",
+      "head": [
+        "As stamped",
+        "Lens centres apart",
+        "Hinge to hinge",
+        "Front at a metal rim",
+        "Front at an acetate rim",
+        "Against a 136 mm cheekbone line"
+      ],
+      "rows": [
+        [
+          "48□18",
+          "66 mm (2.60 in)",
+          "114 mm (4.49 in)",
+          "127 mm (5.00 in)",
+          "134 mm (5.28 in)",
+          "9 mm short, metal · 2 mm short, acetate"
+        ],
+        [
+          "50□17",
+          "67 mm (2.64 in)",
+          "117 mm (4.61 in)",
+          "130 mm (5.12 in)",
+          "137 mm (5.39 in)",
+          "6 mm short, metal · 1 mm over, acetate"
+        ],
+        [
+          "52□16",
+          "68 mm (2.68 in)",
+          "120 mm (4.72 in)",
+          "133 mm (5.24 in)",
+          "140 mm (5.51 in)",
+          "3 mm short, metal · 4 mm over, acetate"
+        ],
+        [
+          "52□18",
+          "70 mm (2.76 in)",
+          "122 mm (4.80 in)",
+          "135 mm (5.31 in)",
+          "142 mm (5.59 in)",
+          "1 mm short, metal · 6 mm over, acetate"
+        ],
+        [
+          "54□18",
+          "72 mm (2.83 in)",
+          "126 mm (4.96 in)",
+          "139 mm (5.47 in)",
+          "146 mm (5.75 in)",
+          "3 mm over, metal · 10 mm over, acetate"
+        ],
+        [
+          "56□16",
+          "72 mm (2.83 in)",
+          "128 mm (5.04 in)",
+          "141 mm (5.55 in)",
+          "148 mm (5.83 in)",
+          "5 mm over, metal · 12 mm over, acetate"
+        ]
+      ]
+    },
+    {
+      "section": "Three ladders, one word for the middle rung",
+      "caption": "Rows are the published width ladders read on 26 September 2026, plus this site's own two rows, which are included so the conversion is applied to the house numbers as well. Column one is the rung each page sells as Medium, in the units and digits it prints. Column two is what the page itself says the measurement runs along; where a page says nothing, the cell says so. Column three adds the pair end-piece allowance published by this site in August 2026 — 13 mm metal, 20 mm acetate — where column two is a hinge span, and leaves the figures alone where the page's quantity is already an outside measure. Column four is what the page says a size has to be within reach of; only one of the four external pages prints a number, so that column is mostly words, and a column of mostly words is itself the finding.",
+      "head": [
+        "The rung called Medium",
+        "Where the page says the line runs",
+        "The same rung read as an outside front",
+        "What the page says you have to hit"
+      ],
+      "rows": [
+        [
+          "129–132 mm (5.08–5.20 in)",
+          "“from hinge to hinge”, in its own table header",
+          "142–145 mm metal · 149–152 mm acetate",
+          "Nothing — the ladder sorts stock, it does not tell you which rung is yours"
+        ],
+        [
+          "129–134 mm (5.08–5.28 in)",
+          "Not stated on the page, in either direction",
+          "Either 129–134 mm as printed, or 142–147 mm (5.59–5.79 in) metal · 149–154 mm (5.87–6.06 in) acetate on the hinge reading — the page cannot be placed on either line",
+          "Nothing — the same page's face-width table routes to lens and arm instead"
+        ],
+        [
+          "126–130 mm (4.96–5.12 in)",
+          "“internal frame width”",
+          "Cannot be converted: no page in this set prints inside-edge to outside-edge",
+          "Nothing — a small-or-large verdict with no line drawn to it"
+        ],
+        [
+          "136 mm as a target, not a band",
+          "Two points, both printed on that page: outer edges of the frame, and the two ends of the hinge behind",
+          "136 mm on the first, 149–156 mm (5.87–6.14 in) on the second",
+          "“within two millimeters in either direction”, so 134–138 mm"
+        ],
+        [
+          "130–145 mm (5.12–5.71 in), this site, bridge-span reading",
+          "“Total width, hinge to hinge”, as this site's oval-face table names it",
+          "143–158 mm (5.63–6.22 in) metal · 150–165 mm (5.91–6.50 in) acetate",
+          "“within about 3 mm (0.12 in) of your own cheekbone line”"
+        ],
+        [
+          "130–145 mm, the same digits on the same site",
+          "“Total width, end piece to end piece”, as this site's heart-shaped-face table names it",
+          "130–145 mm — already an outside measure",
+          "The same cheekbone line, at a different point"
+        ]
+      ]
+    },
+    {
+      "section": "Thirteen published positions, six of them dated",
+      "caption": "Dates as each source carries them, read against the pages on 26 September 2026. Rows are ordered by date; the seven positions whose pages carry no date of their own sit at the bottom, and the count of six dated rows treats the two books as dated to their imprint years. Column three quotes each source verbatim except the two books, which are described in this page's words because their text was read through optical character recognition and is not clean. This site's own two width rows are in the second table rather than this one, marked there as its own, because a page that criticises a band for not naming its measurement point has to submit its own. No links are given to any of them.",
+      "head": [
+        "Published",
+        "What it prints",
+        "The width statement, as printed",
+        "What its own instruction leaves you holding"
+      ],
+      "rows": [
+        [
+          "1850, imprint year and nothing else",
+          "Three failure modes, on three different widths, none of them measured",
+          "A medical treatise on spectacles argues that the framework must be light and of proper dimensions: too large and broad, it loses its steadiness and the eyes are tired by the movement of the image; too narrow and heavy, the temples are compressed and there is aching near the eye; and in the same paragraph, the two glasses should be neither too near nor too far from each other, or double vision and other anomalies of vision may follow",
+          "One sentence with a mechanism and a consequence — attached to the distance between the lenses, the only one of those five widths that any frame stamps; the width the buyer is asked to choose carries only sensations"
+        ],
+        [
+          "1921, imprint year and nothing else",
+          "A theory of apparent width, with no line segment",
+          "A book on choosing spectacles argues that a lightly rimmed or rimless front makes the face read wider and a dark rim makes it read narrower, and puts arms carried over the ear and a low nosepiece in the same list of widening causes",
+          "Adjectives about a face, on a page about a frame — the word does duty for two quantities and the reader is left to notice"
+        ],
+        [
+          "2 April 2025",
+          "A worked target, a tolerance, and two measurement points in one page",
+          "“This is the overall width from left to right outer edges of the frame itself.” … “shows how we measure our Frame Width, the caliper touches with two ends of the hinge behind.” And: “if the width is within two millimeters in either direction, it should still fit comfortably. So for a target frame width of 136, if you set the range to 134-138, the glasses will all fit you.”",
+          "A number, a window around it, and a second instruction that moves the window 13 to 20 mm — its own two sentences, nobody else's arithmetic"
+        ],
+        [
+          "15 July 2025",
+          "A definition, a finger, and two face-measured gates",
+          "“The frame width is the total horizontal measurement of the front of the frames.” “The frame width should ideally be just slightly wider than your face, leaving about a finger's width of space between the arm of the temple and your head.” “If the widest part of your face measures under 130mm, choose a small pair of glasses.” “Be careful not to choose a frame width wider than your forehead.”",
+          "A definition that is on the object and a procedure that is on the face, joined by a finger; ten millimetre figures on the page, none of them on the sentence about pinching"
+        ],
+        [
+          "2 April 2026",
+          "Eight uses of the word, twelve millimetres elsewhere, zero on the width",
+          "“We generally recommend that frame size should match face size and pupil position so the eyes land in an appropriate area of the lens.” The millimetres on the page belong to lens, bridge and arm, and to two lens-width suggestions sorted by narrow and average faces",
+          "A matching rule with two operands and no arithmetic — and the sizes it does give are lens sizes, which are not the width the sentence asks for"
+        ],
+        [
+          "23 September 2026, on a page also stamped 30 June 2023",
+          "The only tabulated six-rung width ladder, and a face table that routes around it",
+          "Junior under 121 mm, Extra Small for adults under 121, Small 121–128, Medium 129–134, Large 135–145, Extra Large over 145. Beside it: face size measured temple to temple, mapped to lens width and to arm length — Narrow under 129 mm giving 50 mm and under and 135–140 mm, Medium 130–139 giving 51–55 and 140–145, Wide over 139 giving 56 and above and 150 or above",
+          "Forty-six millimetre figures, the most of any position read, and a face measurement spent on two other numbers while its own width ladder goes unconverted; no measurement point stated for either ladder"
+        ],
+        [
+          "Undated at the width section",
+          "The admission, in the middle of a page that prints everything else",
+          "“You can usually find the measurements on the inside of the temple of your glasses.” Then, of the width: “This measurement is not printed on the temple of your glasses.” Its advice section for the width carries fourteen millimetre figures on other quantities and none here, only: “Find a frame that is slightly wider than your face — no more than a finger width between the temple and your face.”",
+          "The correct fact about the stamp, and a finger — a page that knows which of the five widths is unprinted and still cannot tell you its value"
+        ],
+        [
+          "Undated at the definition",
+          "A measurement point that is a third one, named for the first time",
+          "“W – width is measured center to center at the temple hinge screws.” On the same page: “L – length refers to temple length, measured from the temple screw to the end of the temple tip,” and one table of per-model W, L and H values in millimetres",
+          "A line you could reproduce with a ruler, belonging to no other page in the table, and no statement of how far it sits from the hinge-to-hinge run the next row uses"
+        ],
+        [
+          "Undated at the table",
+          "The only tabulated four-rung ladder, with its point printed in the header",
+          "“Frame Width Measure the frame horizontally from hinge to hinge to determine the total width.” Narrow 125–128 mm, Medium 129–132, Wide 133–136, Extra Wide 137–140",
+          "A ladder you can stand on if you know your own hinge span — and nine millimetre figures, none of them on a head"
+        ],
+        [
+          "Undated at the bands",
+          "Sizes by the lens, and a sentence about the front",
+          "Adult rungs of X-small under 46 mm, Small 47–49, Medium 50–53, Large 54–56, X-large 57 and above, every one of them a lens width: “Frame width: When the frame is roughly the same width as the face (not much wider, not much narrower), it tends to look more balanced and feel more secure.” Sport and wrap styles are the exception, “use the total frame width to determine size”",
+          "A size ladder in a different quantity from the word it shares a page with, and a hint that the total is used where the front curves — which is the one case the straight-line definitions cannot reach"
+        ],
+        [
+          "Undated at the ladder",
+          "A fourth set of rungs, measured inside",
+          "Small under 125 mm, medium 126–130, large 131–135, extra-large 136 and above, on a page whose quantity is the internal frame width; nine millimetre figures",
+          "Rungs that cannot be compared to the other three ladders at all, because no page in the table prints the distance from an inside edge to an outside edge"
+        ],
+        [
+          "Undated at the temple line",
+          "The word moved onto the face",
+          "“Frame width is the most straightforward aspect and is determined by measuring the distance between your temples.” No millimetre figure anywhere on the page",
+          "A definition that is a line on your head wearing the name of a line on the object, and no conversion to any band — which is the row that makes the card method in the next one legible"
+        ],
+        [
+          "Undated at the size guide",
+          "A front defined as two numbers, and a face measured with a card",
+          "“Frame size is defined by lens and bridge width.” “MEASURE YOUR FACE WIDTH If you don't already own a pair of glasses with measurements, you can measure your face using a card.” Zero millimetre figures on the page, in either unit",
+          "An instruction that produces a face measurement the page's own definition of size has no column for — a number with nowhere to go"
+        ]
+      ]
+    }
+  ]
+}

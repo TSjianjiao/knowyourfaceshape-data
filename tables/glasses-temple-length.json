@@ -1,0 +1,233 @@
+{
+  "slug": "glasses-temple-length",
+  "url": "https://knowyourfaceshape.com/blog/glasses-temple-length/",
+  "title": "Glasses Temple Length: Four Printed Rungs, One Line on the Head, and a Six-Millimetre Overlap",
+  "tables": [
+    {
+      "section": "The arm, the side of the head, and the twenty millimetres where they overlap",
+      "caption": "Rows are the stamped arm lengths: the printed adult band is 120 to 150 mm (4.72 to 5.91 in) and two of the pages that publish it name 135, 140, 145 and 150 mm as the four you will be offered, so those four rows are quoted and the 125 and 130 mm rows are the same band filled at the same 5 mm step the common list uses. A shelf that stocks 124 and 128 exists, so the intermediate rows are arithmetic and not items this site measured or ordered. Column two applies the rule published on 18 January 2019 and still there in the page's April 2026 update — 30 to 45 mm of arm past the bend — so the run of head from hinge to bend is the stamp minus 45 at one end of that slack and minus 30 at the other. Column three counts the whole millimetres inside column two, which is the same for every row and is the point. Columns four and five come from this page's own two-segment model: an arm that is straight from the hinge to the bend point and then runs at the published 45 degrees, with the segment behind the bend taken at both ends of its published range.",
+      "head": [
+        "Temple length, as stamped",
+        "Run of head it serves, hinge to bend",
+        "Whole millimetres of head",
+        "What that arm reads in a straight line",
+        "What a straight tape loses"
+      ],
+      "rows": [
+        [
+          "120 mm (4.72 in)",
+          "75 to 90 mm (2.95 to 3.54 in)",
+          "16",
+          "111.5 to 113.2 mm (4.39 to 4.46 in)",
+          "6.8 to 8.5 mm (0.27 to 0.34 in)"
+        ],
+        [
+          "125 mm (4.92 in)",
+          "80 to 95 mm (3.15 to 3.74 in)",
+          "16",
+          "116.3 to 118.1 mm (4.58 to 4.65 in)",
+          "6.9 to 8.7 mm (0.27 to 0.34 in)"
+        ],
+        [
+          "130 mm (5.12 in)",
+          "85 to 100 mm (3.35 to 3.94 in)",
+          "16",
+          "121.1 to 123.1 mm (4.77 to 4.84 in)",
+          "6.9 to 8.9 mm (0.27 to 0.35 in)"
+        ],
+        [
+          "135 mm (5.31 in)",
+          "90 to 105 mm (3.54 to 4.13 in)",
+          "16",
+          "125.9 to 128.0 mm (4.96 to 5.04 in)",
+          "7.0 to 9.1 mm (0.28 to 0.36 in)"
+        ],
+        [
+          "140 mm (5.51 in)",
+          "95 to 110 mm (3.74 to 4.33 in)",
+          "16",
+          "130.8 to 132.9 mm (5.15 to 5.23 in)",
+          "7.1 to 9.2 mm (0.28 to 0.36 in)"
+        ],
+        [
+          "145 mm (5.71 in)",
+          "100 to 115 mm (3.94 to 4.53 in)",
+          "16",
+          "135.6 to 137.9 mm (5.34 to 5.43 in)",
+          "7.1 to 9.4 mm (0.28 to 0.37 in)"
+        ],
+        [
+          "150 mm (5.91 in)",
+          "105 to 120 mm (4.13 to 4.72 in)",
+          "16",
+          "140.5 to 142.8 mm (5.53 to 5.62 in)",
+          "7.2 to 9.5 mm (0.28 to 0.38 in)"
+        ]
+      ],
+      "footnote": "Column three is flat because the published slack is flat: 45 minus 30 is 15 mm (0.59 in) of give, and fifteen millimetres of continuous run contains sixteen whole millimetre positions whatever the stamp. That single fact is what makes four rungs behave like one long one. Columns four and five are the ones to distrust: they assume an arm that is straight to the bend point and straight again after it, which no arm is, since a real temple curves to follow the head. On the 145 mm row the loss in column five reads 3.2 to 4.2 mm (0.13 to 0.17 in) if the bend is taken at 30 degrees instead of 45, and 12.4 to 16.5 mm (0.49 to 0.65 in) at 60 degrees. Across the seven rows the middle reading is 6.8 to 9.5 mm, which is between one and two of the 5 mm steps the ladder is built on. So column five is a warning about how you measure, not a size you can order."
+    },
+    {
+      "section": "Four rungs, thirty-one heads, and the one position all four fit",
+      "caption": "Rows are the distance from hinge to the start of the bend, measured along the side of the head, at the same 5 mm step the printed ladder uses; the ends of each row's range are the two limits published on 18 January 2019. Column two lists the four sizes two of the retail pages name as the common ones. Column four lists the rest of the 120 to 150 mm band. A size appears in a row when that row's run falls inside the window column two of the first table gives it — which is the first table read sideways, not a second measurement. The 125 mm row of the ladder is included because the band was filled at the printed step, and the 155 to 170 mm note is quoted from a page that stocks two rungs above the band.",
+      "head": [
+        "Run of head, hinge to bend",
+        "Rungs from the common four",
+        "How many of those four",
+        "What the rest of the printed band adds"
+      ],
+      "rows": [
+        [
+          "75 mm (2.95 in)",
+          "none",
+          "0",
+          "120 mm (4.72 in)"
+        ],
+        [
+          "80 mm (3.15 in)",
+          "none",
+          "0",
+          "120, 125 mm (4.72, 4.92 in)"
+        ],
+        [
+          "85 mm (3.35 in)",
+          "none",
+          "0",
+          "120, 125, 130 mm (4.72, 4.92, 5.12 in)"
+        ],
+        [
+          "90 mm (3.54 in)",
+          "135 mm (5.31 in)",
+          "1",
+          "120, 125, 130 mm (4.72, 4.92, 5.12 in)"
+        ],
+        [
+          "95 mm (3.74 in)",
+          "135, 140 mm (5.31, 5.51 in)",
+          "2",
+          "125, 130 mm (4.92, 5.12 in)"
+        ],
+        [
+          "100 mm (3.94 in)",
+          "135, 140, 145 mm (5.31, 5.51, 5.71 in)",
+          "3",
+          "130 mm (5.12 in)"
+        ],
+        [
+          "105 mm (4.13 in)",
+          "135, 140, 145, 150 mm (5.31, 5.51, 5.71, 5.91 in)",
+          "4",
+          "—"
+        ],
+        [
+          "110 mm (4.33 in)",
+          "140, 145, 150 mm (5.51, 5.71, 5.91 in)",
+          "3",
+          "—"
+        ],
+        [
+          "115 mm (4.53 in)",
+          "145, 150 mm (5.71, 5.91 in)",
+          "2",
+          "—"
+        ],
+        [
+          "120 mm (4.72 in)",
+          "150 mm (5.91 in)",
+          "1",
+          "—"
+        ],
+        [
+          "125 mm (4.92 in)",
+          "none",
+          "0",
+          "nothing inside 120 to 150 mm; 160 and 170 mm (6.30, 6.69 in) exist as long-temple stock"
+        ]
+      ],
+      "footnote": "Read the third column down and then across: it rises to four exactly once. That single row is also the midpoint of the overlap between the two sizes a wearer asked about on 11 May 2023 was choosing between — 135 and 145 mm — which is why one of the answers under that question reported trying the longer arm and not being able to tell, while the arithmetic still says a head at 95 or at 110 mm cannot wear both. The 160 and 170 mm rungs come from a page updated on 21 April 2026; no page in this set prints a head run for them, because no page in this set prints the run at all."
+    },
+    {
+      "section": "Twelve published positions, eight of them dated",
+      "caption": "Dates as each source carries them, read against the pages on 25 September 2026. Rows are ordered by date, and the four positions whose pages carry no date of their own sit at the bottom, since a position nobody dated cannot be sorted against positions somebody did. Column three quotes each source verbatim except the two books, which are described in this page's words because their text was read through optical character recognition and is not clean. No links are given to any of them.",
+      "head": [
+        "Published",
+        "What it prints",
+        "The arm statement, as printed",
+        "What its own instruction leaves you holding"
+      ],
+      "rows": [
+        [
+          "1850, imprint year and nothing else",
+          "Two failure modes, no dimensions",
+          "A medical treatise on spectacles argues that the framework must be light and correctly sized: too broad and it loses its steadiness, tiring the eyes through the movement of the image; too narrow and it presses the temples and aches near the eye",
+          "Sensations, with locations — the arm is not separated from the front, and there is no length anywhere in the argument"
+        ],
+        [
+          "1921, imprint year and nothing else",
+          "An appearance argument, needing two words",
+          "A book on choosing spectacles discusses the creases that run back toward the temples and, in the same passage, calls the arms side pieces so that the sentence can tell the hardware from the head",
+          "Nothing measurable — a vocabulary workaround that is still the same workaround a century later"
+        ],
+        [
+          "18 January 2019, page top, updated April 2026",
+          "The only head-anchored rule in the set, with its number attached",
+          "“The temples of the frame should be long enough so they can be bent downward at about a 45-degree angle at a point just beyond the top of your ears.” Beside it: “About 30 to 45 mm of the temple should extend beyond this bend point and be adjusted to conform closely to the contour of your head behind your ear.”",
+          "Two operands and a subtraction it never performs — and then the sentence “In most cases, a skilled optician can make the proper adjustments…”, which is where the working goes"
+        ],
+        [
+          "11 May 2023, the date the account carries",
+          "The buyer's question, in the buyer's units",
+          "“is 10mm (1 cm) a very big difference?”, asked of a pair offered only in 135 mm by someone who wears longer; the endorsed answer is “I think your best bet is to go to an eyeglasses store and try the ones with a 135 mm temple.”",
+          "A shop visit — and one commenter's report of trying the longer arm and not telling the difference, which the six-millimetre overlap reproduces"
+        ],
+        [
+          "25 September 2023, revised 11 October 2023",
+          "A procedure with no unit attached to it",
+          "“Measure from Hinge to Tip: using your ruler or measuring tape, measure from the hinge (the point where the temple attaches to the frame) to the tip of the temple.” Then: “Write down the temple length measurement.” The same page asks for the bridge and the frame height in millimetres",
+          "A number to keep, taken on a frame in your hand, plus a symptom test: pinch and tightness behind the ears if short, sliding if long"
+        ],
+        [
+          "3 March 2026",
+          "A glossary entry for the measurement, with no measurement in it",
+          "“The correct temple length helps keep frames stable on your face without slipping, pinching, or creating pressure behind the ears.” Its definition sentence sends the unit back to the frame: the figure is usually shown in millimetres on the inside",
+          "Feelings only — no millimetre and no inch figure anywhere in the entry, on a page whose subject is a length"
+        ],
+        [
+          "21 April 2026",
+          "A six-rung ladder, two of its rungs outside the printed band",
+          "“Temple length is measured end-to-end, including the bend, and is one of the key numbers printed on your frame.” It lists 135 through 170 mm and attributes the 120-150 mm band to another publisher",
+          "The correct description of the stamp, and a head measurement nobody has to take — the longest rungs are filed as a category rather than as the top of a range"
+        ],
+        [
+          "23 September 2026, publication and modification stamps identical",
+          "The band, the four common rungs, and an instruction to copy a number",
+          "“The arm length is typically 120 mm to 150 mm long.” “The most common options are 135 mm, 140 mm, 145 mm, and 150 mm.” “To find your temple length, measure from the hinge screws to the tip of the arm.” “This measurement does not vary as much as the others.”",
+          "A straight-line instruction on an object that is not straight, and a variance claim that the subtraction reads backwards — 30 mm of stamp buying 45 mm of head"
+        ],
+        [
+          "Undated at the band",
+          "Two bands on one page, sharing a word and twenty values",
+          "“Temple lengths range from 120 to 150 millimeters (4…)”, on a page that also sorts faces by the width between the temples at 109 to 132, 133 to 138 and 139 mm and up",
+          "A number that cannot be identified from its own digits anywhere between 120 and 139 mm"
+        ],
+        [
+          "Undated at the ladder",
+          "A ladder decided by the face",
+          "“Temple length is the “arm” measurement on your glasses, and it's often between 120mm and 150mm long.” The selection rule reads the widest part of the face: under 130mm small, over 140mm large",
+          "A small-or-large verdict with no line drawn from the face figure to the third number"
+        ],
+        [
+          "Undated at the definition",
+          "The three-number dictionary, sourced from another page",
+          "“The third number is temple length, the length of the arms from hinge to tip.” “Usual lengths are around 120–150 mm.” “If your temples are much shorter than you need, the frames may press more at the ears; if they’re much longer, they can feel looser.”",
+          "Direction without magnitude — and its own note that the three-number definition comes from the 2019 reference above, so the dictionary is one source told twice"
+        ],
+        [
+          "Undated at the chart",
+          "Thirteen arm lengths, model by model",
+          "Six tables give a per-model arm figure across 100 to 150 mm, including 124, 128 and four lengths below the 120 mm adult floor; the choosing advice is “It's probably between 100 and 150 mm.”",
+          "Inventory, at a resolution no advice matches — the widest stock range in the set and the emptiest rule"
+        ]
+      ]
+    }
+  ]
+}

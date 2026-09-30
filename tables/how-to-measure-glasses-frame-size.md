@@ -1,0 +1,60 @@
+# How to Measure Glasses Frame Size: Four Rulers, One Subtraction, and the Width It Pays
+
+Live page: <https://knowyourfaceshape.com/blog/how-to-measure-glasses-frame-size/>
+
+## The subtraction, run backwards
+
+*Rows are twelve distance pupillary distances from 54 to 74 mm (2.13 to 2.91 in), the adult band a frame-styling guide published on 3 April 2026 gives as 'most adult PD measurements fall between 54 mm and 74 mm'; the 63 mm row is inserted because it is the figure a prescription-lens retailer uses in its own worked example. Columns two, three and four are the widest lens width that keeps each row inside a published ceiling with the bridge pinned at 18 mm (0.71 in): 5 mm (0.20 in) per eye is the figure a lens-laboratory technical guide published on 9 March 2026 gives, and 4 mm (0.16 in) and 3 mm (0.12 in) are the two ends of the styling guide's band. Each of those cells is pupillary distance plus twice the ceiling minus 18 — arithmetic on somebody else's published operands, not a measurement. Column five is what the ordinary 54□18 front, which is also the size every retail guide happens to print, costs at that row's pupillary distance; that column is the reason the other three exist. Millimetres are primary and inches are the same figure divided by 25.4.*
+
+| Distance PD | Lens width at 5 mm per eye | Lens width at 4 mm per eye | Lens width at 3 mm per eye | What a 54□18 front costs here |
+|---|---|---|---|---|
+| 54 mm (2.13 in) | 46 mm (1.81 in) | 44 mm (1.73 in) | 42 mm (1.65 in) | 9 mm (0.35 in) inward |
+| 56 mm (2.20 in) | 48 mm (1.89 in) | 46 mm (1.81 in) | 44 mm (1.73 in) | 8 mm (0.31 in) inward |
+| 58 mm (2.28 in) | 50 mm (1.97 in) | 48 mm (1.89 in) | 46 mm (1.81 in) | 7 mm (0.28 in) inward |
+| 60 mm (2.36 in) | 52 mm (2.05 in) | 50 mm (1.97 in) | 48 mm (1.89 in) | 6 mm (0.24 in) inward |
+| 62 mm (2.44 in) | 54 mm (2.13 in) | 52 mm (2.05 in) | 50 mm (1.97 in) | 5 mm (0.20 in) inward |
+| 63 mm (2.48 in) | 55 mm (2.17 in) | 53 mm (2.09 in) | 51 mm (2.01 in) | 4.5 mm (0.18 in) inward |
+| 64 mm (2.52 in) | 56 mm (2.20 in) | 54 mm (2.13 in) | 52 mm (2.05 in) | 4 mm (0.16 in) inward |
+| 66 mm (2.60 in) | 58 mm (2.28 in) | 56 mm (2.20 in) | 54 mm (2.13 in) | 3 mm (0.12 in) inward |
+| 68 mm (2.68 in) | 60 mm (2.36 in) | 58 mm (2.28 in) | 56 mm (2.20 in) | 2 mm (0.08 in) inward |
+| 70 mm (2.76 in) | 62 mm (2.44 in) | 60 mm (2.36 in) | 58 mm (2.28 in) | 1 mm (0.04 in) inward |
+| 72 mm (2.83 in) | 64 mm (2.52 in) | 62 mm (2.44 in) | 60 mm (2.36 in) | 0 mm — the centres already line up |
+| 74 mm (2.91 in) | 66 mm (2.60 in) | 64 mm (2.52 in) | 62 mm (2.44 in) | 1 mm (0.04 in) outward |
+
+> Read column five before using the other three. A 54□18 front puts its lens centres 72 mm (2.83 in) apart; a pupillary distance of 63 mm is 9 mm narrower than that, so each lens has to travel 4.5 mm toward the nose — that same row, with that same direction, is already printed on this site in the guide to the numbers stamped on the arm, which works forward from the stamp rather than backward from the eyes, and this page does not recompute it. Above a 72 mm pupillary distance the column changes meaning: the front is now the narrower thing, and the lenses travel outward instead. At the bottom edge of the published adult band a 54□18 front asks for 9 mm per eye, which is over the looser ceiling by four millimetres on a frame nobody would describe as unusual. And note where columns two and three leave the published lens band: the 68 mm row already reaches 60 mm (2.36 in), the top of the printed 40 to 60 mm range, and everything above it escapes the range unless the bridge is taken to the wide end of its own band.
+
+## Hold the bridge steady, and the frame pupillary distance stops being 72
+
+*One pupillary distance, 63 mm (2.48 in), run across the published bridge band instead of across pupillary distances. Column one is the bridge, all six values inside the published 14 to 24 mm range. Column two is the widest lens that keeps each row at or under 5 mm (0.20 in) of decentration per eye — the laboratory guide's figure from 9 March 2026 — computed as 63 + 10 − the bridge. Column three is the sum the frame carries, lens plus bridge, and it is the flat column. Columns four and five are that row's total front width with an end-piece allowance of 20 mm (0.79 in) for the pair and then 12 mm (0.47 in); both allowances are this page's assumption, not a published measurement or a frame anybody measured. Column six back-calculates a hinge-to-hinge figure as the front minus the 20 mm allowance, because a frame fitting guide published 16 June 2025 measures total width that way, hinge to hinge, with bands from 125 to 140 mm.*
+
+| Bridge | Lens width at 5 mm per eye | Frame PD | Front, allowance 20 mm | Front, allowance 12 mm | Hinge to hinge |
+|---|---|---|---|---|---|
+| 14 mm (0.55 in) | 59 mm (2.32 in) | 73 mm (2.87 in) | 152 mm (5.98 in) | 144 mm (5.67 in) | 132 mm (5.20 in) |
+| 16 mm (0.63 in) | 57 mm (2.24 in) | 73 mm (2.87 in) | 150 mm (5.91 in) | 142 mm (5.59 in) | 130 mm (5.12 in) |
+| 18 mm (0.71 in) | 55 mm (2.17 in) | 73 mm (2.87 in) | 148 mm (5.83 in) | 140 mm (5.51 in) | 128 mm (5.04 in) |
+| 20 mm (0.79 in) | 53 mm (2.09 in) | 73 mm (2.87 in) | 146 mm (5.75 in) | 138 mm (5.43 in) | 126 mm (4.96 in) |
+| 22 mm (0.87 in) | 51 mm (2.01 in) | 73 mm (2.87 in) | 144 mm (5.67 in) | 136 mm (5.35 in) | 124 mm (4.88 in) |
+| 24 mm (0.94 in) | 49 mm (1.93 in) | 73 mm (2.87 in) | 142 mm (5.59 in) | 134 mm (5.28 in) | 122 mm (4.80 in) |
+
+> The 20 mm and 12 mm allowances are this page's own numbers, the pair total for both end pieces, and they exist in the table for one reason: to show sensitivity. Change the allowance and only the three columns containing it move — column two and column three do not know it exists, which is the whole difference between a quantity the frame publishes and a quantity a shopper has to estimate. Four of the six rows fall inside the 125 to 140 mm hinge-to-hinge ladder, and the two rows with the widest bridges fall just below it; none of the six is anywhere near the 73 mm sum in column three, which is the figure the lens width in column two was actually solved against. Column four at 152 mm (5.98 in) also sits above the 120 to 150 mm front range published on 3 April 2026 — two millimetres over, on a frame that is inside the published lens band and the published bridge band at the same time.
+
+## Twelve published width positions, and what each one sorts on
+
+*Dates as each source prints them, all re-read on 23 September 2026 against the pages themselves. Rows are ordered by date; the four rows whose ladder page carries no date of its own sit at the bottom, because a position nobody dated cannot be sorted against positions somebody did. Column three is the one sentence the source prints about widths; column four names which of the four rulers in section one produced it.*
+
+| Published | What it sorts | The width statement, as printed | Which ruler made it |
+|---|---|---|---|
+| 18 January 2019, page updated 6 April 2026 | The three stamped numbers | Eye size 40 to 60 mm (1.57 to 2.36 in), bridge width 14 to 24 mm (0.55 to 0.94 in), temple length 120 to 150 mm (4.72 to 5.91 in), worked example 54-20-140 | The lens, and two other things — no front, no face, no pupillary distance on the page |
+| 23 August 2022 | A face | Frame width is the distance between the temples, read with a ruler held horizontally across the face just below the eyes | The face — and no millimetre figure appears anywhere in the fitting steps |
+| 27 April 2023, revised 29 June 2023 | The whole front | Overall frame width in five bands: 100 to 126.9, 127 to 130.9, 131 to 139.9, 140 to 143.9, 144 to 180 mm (3.94 to 7.09 in) | End piece to end piece, on the frame's own product figure |
+| 25 September 2023, revised 11 October 2023 | A face, called a frame | Ruler from the outer edge of one temple across the face to the other; 'this measurement is your eyeglass width or frame width'; the arm figure described as "frame width" or "eye size" | The face, then handed to a chart sorted on the frame |
+| 9 March 2026, revised 17 September 2026; the page reports 'Last updated September 2026' | A laboratory limit | Decentration per eye = (Frame PD − Patient PD) / 2, kept under 5 mm (0.20 in) per eye where possible by choosing a frame PD close to the patient's PD; near version, with a 3 to 4 mm total inset | Neither ruler — this is the ceiling the lens width has to clear |
+| 3 April 2026 | A front, against a distance | Most adult PD measurements fall between 54 mm and 74 mm (2.13 to 2.91 in); frame width, the total distance across the front, ranges from about 120 to 150 mm (4.72 to 5.91 in); decentration under 3–4 mm (0.12 to 0.16 in) per eye when possible | The front, and a pupillary distance, on one page — subtracted from each other but never solved for a width |
+| 10 June 2026, revised 2 August 2026 | The sum, not the width | Frame PD = A + DBL, with 52□18 given as 70 mm (2.76 in); DBL defined as the shortest distance between the nasal edges; effective diameter as twice the longest radius from the geometric centre | The boxing square — the only published route from a stamped lens to a centre distance |
+| 14 September 2026 | What is in stock | Blanks at 65, 70 and 75 mm (2.56 to 2.95 in); a larger blank gives more geometric room but is not automatically the better order | Neither ruler — the far end of the chain, where an uncentred width becomes a refused order |
+| Undated at the lens band | A single lens | Small lens width 50 mm (1.97 in) or less, medium 51 to 54 mm (2.01 to 2.13 in), large anything wider than 55 mm (2.17 in); 'your eyes should be centred within your lenses' | The lens — and the centring sentence is the one the bands never reach |
+| Undated at the ladder page; the same publisher's companion guide carries 16 June 2025, updated 28 July 2026 | Hinge to hinge | Total width in four bands, 125 to 128, 129 to 132, 133 to 136, 137 to 140 mm (4.92 to 5.51 in), measured on the frame laid flat from hinge to hinge | Hinge to hinge, which is the front minus both end pieces |
+| Undated at the recipe | A face, then a sum | Face measured temple to temple in inches and multiplied by 25.4; frame width as both lens widths plus the bridge; frame size may vary by up to 3 mm (0.12 in); face bands below 129 mm, 130 to 139 mm, above 139 mm (5.08 to 5.47 in) | Two rulers in one list of steps, and they disagree by 20 mm — worked through in the section above |
+| Undated at the PD page | A distance | If your distance PD is 63 mm (2.48 in), your near PD is 60 mm (2.36 in) | Neither ruler — this is the operand, and the only row here whose number is about your eyes rather than the frame |
+
+> Five of the twelve sort a frame by a width and never take a pupillary distance as an input; one takes the pupillary distance and never sorts anything by width; two print both quantities and never join them; and one page holds two recipes for the same measurement that disagree by exactly the end pieces one of them omits. Between the oldest dated row and the newest, 2,796 days, nothing in this list was corrected — it was accumulated, which is a different thing and the reason the arithmetic still has to be done by the shopper.

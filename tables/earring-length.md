@@ -1,0 +1,76 @@
+# Earring Length: The Millimetre Gap Between Earlobe and Chin
+
+Live page: <https://knowyourfaceshape.com/blog/earring-length/>
+
+## The gap between earlobe and chin, in millimetres
+
+*The room a drop has before its lowest point passes the chin, in millimetres at three cheekbone widths, indexed by the face-length ratio this site publishes*
+
+| Face-length ratio | Gap at 128.2 mm | Gap at 136 mm | At 136 mm, in inches | Gap at 148.8 mm | One inch past the chin, at 136 mm | …in inches |
+|---|---|---|---|---|---|---|
+| 0.90 | 38.5 | 40.8 | 1.61 | 44.6 | 66.2 | 2.61 |
+| 1.00 | 42.7 | 45.3 | 1.78 | 49.6 | 70.7 | 2.78 |
+| 1.10 | 47.0 | 49.9 | 1.96 | 54.6 | 75.3 | 2.96 |
+| 1.20 | 51.3 | 54.4 | 2.14 | 59.5 | 79.8 | 3.14 |
+| 1.30 | 55.6 | 58.9 | 2.32 | 64.5 | 84.3 | 3.32 |
+| 1.40 | 59.8 | 63.5 | 2.50 | 69.4 | 88.9 | 3.50 |
+| 1.50 | 64.1 | 68.0 | 2.68 | 74.4 | 93.4 | 3.68 |
+| 1.60 | 68.4 | 72.5 | 2.86 | 79.4 | 97.9 | 3.86 |
+| 1.70 | 72.6 | 77.1 | 3.03 | 84.3 | 102.5 | 4.03 |
+| 1.80 | 76.9 | 81.6 | 3.21 | 89.3 | 107.0 | 4.21 |
+
+> Every cell is one multiplication and one division — ratio × cheekbone width ÷ 3 — carried out exactly and then rounded to one decimal, so any cell can be re-derived on the spot. The inch column is the millimetre cell divided by 25.4 (40.8 ÷ 25.4 = 1.6063, so 1.61), and the last two columns add one inch to the 136 mm gap, which is how far a drop must reach to sit 25.4 mm below the chin at that width. The three widths are the adult cheekbone band this site works with: 128.2 and 148.8 mm are one standard deviation either side of the measured sex means, and 136 mm is the working line used by two of its eyewear pages. The ratio band is 1.05 to 1.65 with a published standard deviation of 0.18, and the ladder runs 0.90 to 1.80, which is 0.15 past each published end — 0.82 of that deviation rather than a whole one. One full deviation beyond the ends would be 0.87, a gap of 39.4 mm, and 1.83, a gap of 83.0 mm; each of those sits 1.4 mm outside the two ends of the ladder as printed. Two things are this page's own and are labelled as such. The first is the landmark. The lower part of the face runs from the base of the nose to the chin, and no position in the comparison below puts the earlobe at a measured level on the face, so this table takes the lobe to sit on that boundary; if it sits 6 mm higher or lower, every cell in the 136 mm column moves by 6 mm (0.24 in) and no row reorders. Six millimetres is just under the span of the widest hardware ladder named above, the post ladder that runs from 5 mm to 12 mm; that is why the sensitivity is stated this wide and not tightened for effect. The second is that the outer columns and the two end rows are combinations, not typical faces: the top row at the wide column implies a face length of 267.8 mm, which is more than a tape finds on anyone. Read one row at your own width, not the corners.
+
+## Where a printed number actually stops
+
+*The same drop lengths read against three face-length ratios at the 136 mm working width; negative means the drop still stops above the chin*
+
+| Drop on the listing | Against ratio 1.05 | Against ratio 1.35 | Ratio 1.35, in inches | Against ratio 1.65 | Share of the 1.35 gap |
+|---|---|---|---|---|---|
+| 10 mm / 0.39 in | -37.6 | -51.2 | -2.02 | -64.8 | 16.3% |
+| 15 mm / 0.59 in | -32.6 | -46.2 | -1.82 | -59.8 | 24.5% |
+| 20 mm / 0.79 in | -27.6 | -41.2 | -1.62 | -54.8 | 32.7% |
+| 25 mm / 0.98 in | -22.6 | -36.2 | -1.43 | -49.8 | 40.8% |
+| 30 mm / 1.18 in | -17.6 | -31.2 | -1.23 | -44.8 | 49.0% |
+| 40 mm / 1.57 in | -7.6 | -21.2 | -0.83 | -34.8 | 65.4% |
+| 50 mm / 1.97 in | 2.4 | -11.2 | -0.44 | -24.8 | 81.7% |
+| 60 mm / 2.36 in | 12.4 | -1.2 | -0.05 | -14.8 | 98.0% |
+| 70 mm / 2.76 in | 22.4 | 8.8 | 0.35 | -4.8 | 114.4% |
+| 80 mm / 3.15 in | 32.4 | 18.8 | 0.74 | 5.2 | 130.7% |
+
+> Rows are drop lengths as they appear in the pages this subject ranks for; columns are those rows minus the gap for that ratio, so the arithmetic is one subtraction per cell and every input is in the previous table. The percentage column divides the drop by the 1.35 gap of 61.2 mm, which makes 100% a drop ending level with the chin on a face at the middle of the published band; the inch column converts the signed millimetre cell by 25.4 and keeps its sign, so -0.44 in is eleven millimetres short of the chin, not eleven millimetres past it. Three rows are worth reading as crossings: 50 mm is the first printed figure to go positive at ratio 1.05, 70 mm is the first at 1.35, and 80 mm is the first at 1.65 — 60 mm still stops 1.2 mm short of the chin at that middle ratio. The figures that turn up most often in the hardware tables above are 6 mm and 8 mm, each printed by nine of the twelve pages read here, and 8 mm is 13.1% of the middle gap of this table. The longest post figure in that set, 12 mm, is 25.2% of the narrowest column here and 14.7% of the longest gap at the working width, which is the honest size of the biggest number a shopper is handed.
+
+## What has been printed about this, in date order
+
+*Same-subject positions read on 28 September 2026 — seven from inside the ten highest-ranked positions, five alongside them, and one book — in order of publication*
+
+| Published | What it is | The statement, as printed | What it leaves you holding |
+|---|---|---|---|
+| 1901, imprint year and nothing else | A printed manual of beauty and dress for women | “A face of regular beauty should have the three following dimensions of equal size”, with the three spans given as forehead to eyebrow, eyebrow to nose end, nose end to the extremity of the chin; the same book discusses earrings as weight, wanting a screw “which does not weigh down the lobe of the ear to an ungraceful extent” | The lower third, defined. And no unit of length anywhere in its earring passage: the millimetre appears nowhere in the book, and the only inches it measures are in its chapters on hair |
+| 14 April 2022, printed on the page; its structured data also carries 8 July 2025 | A piercing-jewellery maker's stud and hoop sizing guide | “…5mm and 6.5mm length posts are most popular if you prefer the jewelry to be flush against your skin”, and for a hoop that should hang, “then add 1mm to your measured length and round up to the next whole number” | The only declared allowance in the whole set that is added to a measurement the reader takes — and what it is added to is a distance measured from the piercing to the end of the nostril or earlobe, never a distance on the face. The one page here that shows the shape of what this page does, aimed at the wrong axis |
+| 27 August 2024, printed on the page and in its structured data | A gemstone jeweller's sizing post, and the oldest dated row inside the ten highest-ranked positions | “…choosing lengths that counteract your natural proportions”; elsewhere it names millimetres and inches as the units its size calculation uses without printing a single measurement in either | The face-side advice with no number, and the number-side advice with no face — the two halves of this page's question, in separate sentences, in one post |
+| 30 June 2025, in its structured data only; no date is printed where a reader can see one | A flatback-jewellery retailer's post-length guide | “posts typically come in a few standard lengths, with 6mm and 8mm being the most common” | A standard set for the wire across the ear. It is a real ladder of real millimetres and it ends at the far side of the head |
+| 5 December 2025, printed on the page and in its structured data | A pearl jeweller's face-proportion guide, and the row that talks about the face's own measurements more than any other here | “Measure your earlobe width and face length in millimetres to apply simple proportion rules”, then spends that measurement on stud diameter against the width of the lobe | The closest approach in the set, and the most instructive miss: the instruction is to measure the face in millimetres, and the face length that comes back is never divided by anything. It prints no table |
+| 26 January 2026, printed on the page and in its structured data | A flat-back specialist's sizing guide, titled for post length | “Post lengths range from 5mm to 10mm; measure your lobe thickness using the Pinch Test”, with the run of a 6.5 mm middle | A millimetre range and a measurement instruction, both for the ear. Its two uses of the word face are about falling asleep face-first into a pillow; the heaviest face vocabulary among the readable top-ten rows belongs to a page that prints no number in any unit |
+| 25 February 2026, in its structured data only; the page carries no visible date | A diamond jeweller's size guide | “Long drop earrings (typically 25mm–50mm) elongate the neck and add movement”, and in another sentence “Compact hoops (10–20mm) complement longer faces” | Both halves of the claim without the arithmetic between them: no landmark, no ratio, no division, and no way to tell which face the 25 to 50 mm band was chosen for. It ranks eighteenth, outside the ten |
+| 9 March 2026, printed on the page and in its structured data | A piercing studio's cartilage sizing guide, the densest millimetre text in the set | Its three tables are headed “Measurement Type | Standard Helix | Forward Helix | Important Notes” and the two others like them | Every millimetre in it is gauge, hoop diameter or post length; the one sentence where a millimetre and a face word share a line describes where a piece of metal sits relative to the head, not a face shape |
+| 31 March 2026, printed on the page and in its structured data | A small-label measurement guide, and the most recent dated row here | “Short drops often measure around 20 to 30 mm, while longer dangles can be 50 mm or more”; separately, “Longer earrings tend to elongate the face and work well for round or softer face shapes” | A genuine millimetre ladder for the drop, and a face claim, two sentences apart. Nothing in the page lets a reader put one against the other, and the ladder has no upper end: 50 mm or more |
+| No date on the page or in its structured data | A jewellery care-and-sizing page with three tables and the largest millimetre count among the undated rows | “The length refers to how long the jewellery post or pole that is going through the pierced hole”, beside a table of inner diameters running 5 to 12 mm | The word length defined explicitly, for the segment inside the ear. Once that definition is on the page, every drop figure in the set is understood to be a different measurement — which is why the definition is worth having and why the face is still missing |
+| No date on the page or in its structured data | A piercing supplier's sizing guide, three tables | A table headed “Gauge Size to Inches to Millimeters Conversion Chart”, then two more that convert millimetres to fractional inches from 4.7 mm to 38 mm | The only place in the set where millimetres and inches are printed side by side as a pair of columns — and what they convert is a unit, not a choice. No face appears in any of the three |
+| No date on the page or in its structured data | A label's two-table size page, 38 millimetre figures in 345 words | “POST LENGTH (Excluding charm and backing ball)”, with a ladder of 5 mm = 3/16 in, 6 mm = 1/4 in, 8 mm = 5/16 in through 12 mm = 1/2 in | The honest exclusion note, which tells you the number stops at the ear and does not include what hangs below it — the single clearest statement in the set of why a drop cannot be read off these tables |
+| No date on the page or in its structured data | A fashion-jewellery size page whose earring table is four letters wide | “Find Your Earring Size”, then four rows: “Hoops: 1-2 cm Studs: 1-3 mm”, “Hoops: 2.5-3.5 cm Studs: 4-6 mm”, “Hoops: 4-5.5 cm Studs: 7-9 mm”, “Hoops: 6 cm+ Studs: 10 mm+” | The only page in the set that prints one column of object sizes in millimetres and the next in centimetres. Both are diameters of the thing being sold; a reader choosing between S and L is given no measurement of their own to choose with |
+
+> Sorted by publication date, with the four positions carrying no date placed last. Dates are recorded as each position itself carries them: printed where a reader can see them, printed in structured data only, or absent — the two structured-data-only rows and the four undated rows are stated rather than smoothed over, because they are the difference between a page that was dated and a page that was stamped. Three of the ten highest-ranked positions are not in this table: one returned a human-verification wall to both reading paths, one is a page whose text never reaches the document and whose browser reading timed out, and one was read in a browser but yielded no publication date, so it cannot be placed in a table sorted by date. The first two have no reading to contribute; the third has one and no row to put it in. None of the three is replaced with a substitute row. The span runs from the 1901 imprint to 31 March 2026, one hundred and twenty-five years; the dated web rows alone cover 1,447 days from 14 April 2022 to 31 March 2026, three years eleven months and seventeen days, and the oldest dated row inside the ten highest-ranked positions is 27 August 2024, which is 581 days before the newest. Where a quotation begins mid-sentence the break is marked.
+
+## What to ask of a page that will not tell you
+
+*Target drop lengths at the 136 mm working width, for four published ratios: level with the chin, and the stops around it*
+
+| Face-length ratio | Level with the chin | 12.7 mm above it | 12.7 mm below | 25.4 mm below | 50.8 mm below |
+|---|---|---|---|---|---|
+| 1.05 | 47.6 mm / 1.87 in | 34.9 mm / 1.37 in | 60.3 mm / 2.37 in | 73.0 mm / 2.87 in | 98.4 mm / 3.87 in |
+| 1.25 | 56.7 mm / 2.23 in | 44.0 mm / 1.73 in | 69.4 mm / 2.73 in | 82.1 mm / 3.23 in | 107.5 mm / 4.23 in |
+| 1.45 | 65.7 mm / 2.59 in | 53.0 mm / 2.09 in | 78.4 mm / 3.09 in | 91.1 mm / 3.59 in | 116.5 mm / 4.59 in |
+| 1.65 | 74.8 mm / 2.94 in | 62.1 mm / 2.44 in | 87.5 mm / 3.44 in | 100.2 mm / 3.94 in | 125.6 mm / 4.94 in |
+
+> Each cell is the gap for that ratio at the working width, plus or minus the distance named in the column header, divided by 25.4 for the inch figure. The steps are chosen rather than measured and are marked as such: 12.7 mm is half an inch, 25.4 mm is one inch, and 50.8 mm is the corner-to-corner spread of the first table, from its smallest cell of 38.5 mm to its largest of 89.3 mm, so the last column is a drop that travels below the chin by exactly as far as the published band of faces differs from one corner of that table to the other. Because every cell is one gap plus a chosen distance, a reader working at another cheekbone width takes their row from the first table and adds the same four numbers to it. Two of these targets are worth naming in a shop: at ratio 1.35 the level stop is 61.2 mm, which is no product anyone sells, while the nearest thing to it is a 60 mm drop that finishes 1.2 mm short of the chin — the next size up, 70 mm, crosses by 8.8 mm. Two listings either side of a line you can compute.

@@ -1,0 +1,17 @@
+# Inverted Triangle Face Shape: The Measurements Behind the Label
+
+Live page: <https://knowyourfaceshape.com/blog/inverted-triangle-face-shape/>
+
+## The table: five checks, two columns
+
+*Bands below are the published centre plus or minus one standard deviation, read on the tape scale. Ratios carry no units; the jaw angle is in degrees. This site counts an inverted triangle inside the heart column and does not list an eighth shape — so the heart column is the one to read against, there is no separate inverted-triangle column, and the numbers in it are the numbers behind that label.*
+
+| Check | Heart | Triangle |
+|---|---|---|
+| Face length ÷ cheekbones | 1.17 – 1.53 | 1.12 – 1.48 |
+| Forehead ÷ cheekbones | 0.97 – 1.13 | 0.72 – 0.88 |
+| Jaw ÷ cheekbones | 0.60 – 0.84 | 0.96 – 1.20 |
+| Jaw angle | 112 – 128° | 110 – 126° |
+| Chin taper (chin width ÷ jaw width) | 0.22 – 0.38 | 0.41 – 0.58 |
+
+> The four notes under this table are part of the reading, not a disclaimer attached to it afterwards.

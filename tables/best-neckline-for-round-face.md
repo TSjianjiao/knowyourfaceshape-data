@@ -1,0 +1,68 @@
+# Best Neckline for Round Face: The Two Numbers You Already Have
+
+Live page: <https://knowyourfaceshape.com/blog/best-neckline-for-round-face/>
+
+## Neckline Shapes for Face Shapes: The Two Numbers Behind the Words
+
+*Your own cheekbone width indexes this table; the middle columns are one multiplication each.*
+
+| Cheekbone width | Forehead width (× 0.88) | Jaw width (× 0.85) | Jaw narrower than cheekbones by | One spread unit of jaw width here |
+|---|---|---|---|---|
+| 128.2 mm (5.05 in) | 112.9 mm (4.45 in) | 108.9 mm (4.29 in) | 19.3 mm (0.76 in) | ± 15.4 mm (0.61 in) |
+| 132.0 mm (5.20 in) | 116.3 mm (4.58 in) | 112.1 mm (4.41 in) | 19.9 mm (0.78 in) | ± 15.8 mm (0.62 in) |
+| 136.0 mm (5.35 in) | 119.8 mm (4.72 in) | 115.5 mm (4.55 in) | 20.5 mm (0.81 in) | ± 16.3 mm (0.64 in) |
+| 140.0 mm (5.51 in) | 123.3 mm (4.86 in) | 118.9 mm (4.68 in) | 21.1 mm (0.83 in) | ± 16.8 mm (0.66 in) |
+| 144.0 mm (5.67 in) | 126.8 mm (4.99 in) | 122.3 mm (4.81 in) | 21.7 mm (0.85 in) | ± 17.3 mm (0.68 in) |
+| 148.8 mm (5.86 in) | 131.1 mm (5.16 in) | 126.4 mm (4.98 in) | 22.4 mm (0.88 in) | ± 17.9 mm (0.70 in) |
+
+> Centres are 0.88088 (forehead ÷ cheekbone) and 0.84923 (jaw ÷ cheekbone) for a round face, on the soft-tape scale; every millimetre cell is that centre multiplied by the row's cheekbone width and rounded to one decimal, and each inch cell is that same unrounded product divided by 25.4 and rounded separately — so an inch can land one hundredth away from dividing the millimetres printed beside it. Those two centres are the same constants that generate the seven-shape ratio bands published elsewhere on this site — this page reproduces all twenty-one of those bands cell for cell before using any of them. The last column is one standard deviation of the jaw ratio inside the measured round-face group in this site's own sample (0.120 on this scale, ten faces), so it is a spread inside one shape, not a tolerance on your tape. 128.2 and 148.8 mm are the ends of the adult cheekbone band this site works from and 136 mm is its working line; the dataset behind that band is named where this site publishes that band and is not reprinted here.
+
+## A Neckline Chart by Face Shape, All Seven at One Width
+
+*Seven outlines through the same multiplication, all at the 136 mm working line.*
+
+| Outline | Jaw ÷ cheekbone | Jaw width at 136 mm | Narrower than cheekbones by | Neck measure whose two front runs span that jaw | This site's sample |
+|---|---|---|---|---|---|
+| Heart | 0.720 | 97.9 mm (3.86 in) | 38.1 mm (1.50 in) | 293.8 mm (11.57 in) | interpolated, one face |
+| Diamond | 0.720 | 97.9 mm (3.86 in) | 38.1 mm (1.50 in) | 293.8 mm (11.57 in) | interpolated, three faces |
+| Oval | 0.803 | 109.2 mm (4.30 in) | 26.8 mm (1.05 in) | 327.7 mm (12.90 in) | measured, eighteen faces |
+| Round | 0.849 | 115.5 mm (4.55 in) | 20.5 mm (0.81 in) | 346.5 mm (13.64 in) | measured, ten faces |
+| Oblong | 0.923 | 125.5 mm (4.94 in) | 10.5 mm (0.41 in) | 376.6 mm (14.83 in) | measured, twelve faces |
+| Square | 0.951 | 129.3 mm (5.09 in) | 6.7 mm (0.26 in) | 387.9 mm (15.27 in) | measured, six faces |
+| Triangle | 1.080 | 146.9 mm (5.78 in) | −10.9 mm (−0.43 in) | 440.6 mm (17.35 in) | no measured faces |
+
+> Each row is the published centre for that outline multiplied by 136 mm, then subtracted from 136 mm; the last numerical column is that jaw width tripled, which is the step this page adds in the next section and is labelled there. Oval, oblong, round and square rest on measured faces (18, 12, 10 and 6). Heart, diamond and triangle do not: their centres are interpolated along a published ordering because the sample holds one, three and zero faces, so treat those three rows as positions on a scale, not as results. A round face's own published jaw band, 0.73 to 0.97, spans 99.3 to 131.9 mm at this width — 32.6 mm, or 1.29 in, of real variation inside the single label this table calls one row.
+
+## The Wide vs Narrow Neckline Face Shape Question
+
+*The 1902 drafting rule as numbers: everything is derived from your own neck measure.*
+
+| Tape round the neck | Halved (what the rule works from) | One front run (a sixth of the neck) | Both front runs together | Shortfall against the halved measure |
+|---|---|---|---|---|
+| 300 mm (11.81 in) | 150.0 mm (5.91 in) | 50.0 mm (1.97 in) | 100.0 mm (3.94 in) | −50.0 mm (−1.97 in) |
+| 320 mm (12.60 in) | 160.0 mm (6.30 in) | 53.3 mm (2.10 in) | 106.7 mm (4.20 in) | −53.3 mm (−2.10 in) |
+| 340 mm (13.39 in) | 170.0 mm (6.69 in) | 56.7 mm (2.23 in) | 113.3 mm (4.46 in) | −56.7 mm (−2.23 in) |
+| 360 mm (14.17 in) | 180.0 mm (7.09 in) | 60.0 mm (2.36 in) | 120.0 mm (4.72 in) | −60.0 mm (−2.36 in) |
+| 380 mm (14.96 in) | 190.0 mm (7.48 in) | 63.3 mm (2.49 in) | 126.7 mm (4.99 in) | −63.3 mm (−2.49 in) |
+| 400 mm (15.75 in) | 200.0 mm (7.87 in) | 66.7 mm (2.62 in) | 133.3 mm (5.25 in) | −66.7 mm (−2.62 in) |
+
+> The rule is quoted as a procedure: the tape goes round the neck and the measure is halved, each front run is set at one sixth of the neck and checked against that halved measure, and a spring of about an inch at the shoulder seam is added on. The sixth, the halving and the inch are the manual's own numbers; the fourth column (two runs together, a third of the neck) and the fifth (their shortfall against the halved measure) are this page's arithmetic, and the fifth column is simply the sixth again, which is the check. The inch figures are the millimetre cells divided by 25.4. The neck measures in the first column are a plain 20 mm ladder chosen to straddle a range of adult necks; they are not typical values and nothing here depends on which row is yours — the manual works from whatever the tape says, and so does this table. The 25.4 mm spring appears once, in that one document, and is reported as a single source rather than as a convention.
+
+## What Changed Between 1902 and August 2026
+
+*Ten dated entries by publication day, 1902 to 2026.*
+
+| Published | What it is | What it puts down | What moves, what does not |
+|---|---|---|---|
+| 1902 (imprint year, no month given) | A London trade manual for waistcoat cutters | Opening built from the neck: tape round the neck and halve it, each front run a sixth of the neck, checked against the halved measure, about an inch of spring at the shoulder seam | The only printed size rule in the set — and the word for a face appears in it zero times |
+| 7 January 2014 | A personal sewing and styling site | Four factors for choosing an opening, face shape being one of them; none of the four is given a number | Face shape is listed as a factor; no measurement enters the argument |
+| 13 October 2014 | An outfit blog whose reader notes ran on into August 2026 | An opening relates to the shape of the jaw rather than the shape of the body, and the round-body-wants-round-opening habit is called an illusion | The direction matches the jaw ratio above; three thousand words and no millimetre. Its own publication day is only in machine-readable fields — the dates printed on that page are reader notes |
+| 19 May 2019 | A stylist's entry on a small label's site | Choose by comparing yourself to a well-dressed lookalike; the judgement is outsourced to a photograph | A method for shape matching with no numbers and no landmarks |
+| 12 March 2024 | A clothing label's fit guide | Each opening defined by its corner geometry — a straight horizontal cut, a right angle — with the angle named and the width not | Precision language arrives; a size unit does not |
+| 25 January 2025 | A styling site's shape guide | Six of the seven outlines worked through in order as a list of what each should avoid; thirty-three uses of the phrase for the face | The most complete shape-by-shape list in the set and still zero measurements; the date is only in its own metadata, not printed on the page |
+| 5 March 2025 | A blouse maker's advice page | Eight openings offered as suitable for every body and every face shape; the length of the list is the whole argument | More style names than any other row here, and not one number among them; the day is printed on the page and in no machine-readable field |
+| 9 January 2026 | A dress retailer's styling guide | Names the width of the opening as the second mistake people make, and one table of styles against outlines | The dimension this page is about, named, in words, with no number attached to it |
+| 11 February 2026 | A formalwear retailer's advice page | The opening as a framing device for the shoulders and for how a wearer carries them | Framing shifts to the body; the count of size units stays at zero |
+| 28 August 2026 | A jewellery retailer's advice page | The mainstream instruction stated flatly — pick the opposite of your outline, a round face wants a V | Closest the set comes to a rule of thumb, and the newest row here; no measurement anywhere near it |
+
+> Read the 1902 imprint as late as the year allows and the span from it to the newest row is still 123 years and 7 months; the nine rows published on the web span 12 years and 7 months, and the two newest of those are 7.6 months apart. Dates were taken from each page's own statement — a printed line, its metadata or its structured data — and the three columns above describe what was read; they are not quotations. Eleven readable write-ups were gathered for this comparison and nine are dated here. The two that are not: a first-person piece on a discussion site, which one pass this month read in full but never located a day on, and one page that came back in a second pass as a shell with thirty-four words of visible text. Two further pages in the same list served a browser-verification wall to every attempt, so nothing about their contents is claimed here — including whether they print a number.

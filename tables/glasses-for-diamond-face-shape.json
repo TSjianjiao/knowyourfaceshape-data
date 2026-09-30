@@ -1,0 +1,97 @@
+{
+  "slug": "glasses-for-diamond-face-shape",
+  "url": "https://knowyourfaceshape.com/blog/glasses-for-diamond-face-shape/",
+  "title": "Glasses for Diamond Face Shape: Five Frame Numbers, Three Outlines and One Subtraction",
+  "tables": [
+    {
+      "section": "Five rows, three outlines, one working width",
+      "caption": "Rows are the five parameters that decide whether a frame can be worn, made and ordered. Columns are the two outlines a diamond result gets argued into and this site's own nearest boundary: the rule set names oval as the boundary, and heart as the pair that the forehead alone decides. Every cell is millimetres with inches in parentheses. The depth row is worked at a cheekbone line of 136 mm (5.35 in) because that is the width at which this site's corridor ceilings are computed; the other four rows are published bands and do not depend on it. The upper edges in the depth row are this site's arithmetic rather than a shelf size, and they are ceilings — nothing here claims a 48 mm lens can be bought, only that past that number the lens is taller than the space between your brow and your cheek.",
+      "head": [
+        "Frame parameter",
+        "Diamond",
+        "Oval",
+        "Heart"
+      ],
+      "rows": [
+        [
+          "Total width, hinge to hinge",
+          "130 – 145 mm (5.12 – 5.71 in)",
+          "130 – 145 mm (5.12 – 5.71 in)",
+          "130 – 145 mm (5.12 – 5.71 in)"
+        ],
+        [
+          "Lens width, first stamped number",
+          "40 – 60 mm (1.57 – 2.36 in)",
+          "40 – 60 mm (1.57 – 2.36 in)",
+          "40 – 60 mm (1.57 – 2.36 in)"
+        ],
+        [
+          "Lens depth, rarely stamped",
+          "30 – 48 mm (1.18 – 1.89 in)",
+          "30 – 48 mm (1.18 – 1.89 in)",
+          "30 – 47 mm (1.18 – 1.85 in)"
+        ],
+        [
+          "Bridge width, second stamped number",
+          "14 – 24 mm (0.55 – 0.94 in) published; 18 – 20 mm (0.71 – 0.79 in) at a medium size",
+          "14 – 24 mm (0.55 – 0.94 in) published; 18 – 20 mm (0.71 – 0.79 in) at a medium size",
+          "14 – 24 mm (0.55 – 0.94 in) published; 18 – 20 mm (0.71 – 0.79 in) at a medium size"
+        ],
+        [
+          "Temple length, third stamped number",
+          "140 – 145 mm (5.51 – 5.71 in) standard; 148 – 155 mm (5.83 – 6.10 in) on a wide head",
+          "140 – 145 mm (5.51 – 5.71 in) standard; 148 – 155 mm (5.83 – 6.10 in) on a wide head",
+          "140 – 145 mm (5.51 – 5.71 in) standard; 148 – 155 mm (5.83 – 6.10 in) on a wide head"
+        ]
+      ]
+    },
+    {
+      "section": "The blank, which is where the depth goes",
+      "caption": "Every figure here is this site's arithmetic on published inputs, not a frame anybody measured, and the construction is written out so you can redo it with your own numbers. Inputs, all of them published on this site: pupillary distance 62 mm (2.44 in), decentration ceiling 5 mm (0.20 in) per eye, largest commonly stocked blank 75 mm (2.95 in), 2 mm processing allowance, cheekbone line 136 mm (5.35 in), end-piece allowance 20 mm (0.79 in) summed across both sides of an acetate front. Column two is the widest lens a 75 mm disc still yields at that depth once the decentration spend is taken off it — the minimum-blank formula that produces it is laid out and worked across seven real frames on this site's eyeglasses page for a round face, and it is not re-derived here. Column three then pegs the frame's pupillary distance at the widest the decentration ceiling allows, 62 + (2 × 5) = 72 mm, and the addend is the one the sizing pages use: total width = twice the lens width + bridge width + end-piece allowance, so row one reads (2 × 55.4) + 16.6 + 20 = 147.4 mm. Because it is the frame distance that is pegged, the bridge is not a free input in that column — it comes out as 72 minus the lens width, and it changes row to row: 16.6, 19.0, 21.8, 23.3, 26.9 and 31.2 mm down the six rows, not the 18 – 20 mm that Table 1 calls a medium size. Reduce the addend and every figure in column three is one step from your own: twice the lens width, plus the bridge, plus twenty, which under this pegging is just the lens width plus 92. Two rows carry a warning. Their implied bridges, 26.9 and 31.2 mm, sit above the 24 mm upper edge of the published bridge band, so those two fronts cannot be bought as specified. Pin that bridge at 24 mm and the pegging moves with it, since the frame distance is now the lens width plus 24 rather than a fixed 72: the disc then spends 8.8 mm and 7.1 mm on decentration instead of the full 10, and column two for those two rows comes back as 46.8 mm and 45.1 mm. Twice those, plus the 24 mm bridge and the 20 mm of end pieces, is 137.6 mm and 134.2 mm, so the last column reads +1.6 mm and −1.8 mm — every row keeps the sign it has above, and the crossover stays where the next list puts it. Inches are deliberately left out of the table itself — these are subtractions, not shelf sizes, and rounding them invites somebody to order the rounded number. The bottom row is this site's published diamond ceiling at this width, and it is the row where the last column goes negative.",
+      "head": [
+        "Lens depth",
+        "Widest lens a 75 mm blank still covers",
+        "Total width that leaves, on an acetate front",
+        "Against a 136 mm cheekbone line"
+      ],
+      "rows": [
+        [
+          "30 mm (1.18 in)",
+          "55.4 mm",
+          "147.4 mm",
+          "+11.4 mm"
+        ],
+        [
+          "34 mm (1.34 in)",
+          "53.0 mm",
+          "145.0 mm",
+          "+9.0 mm"
+        ],
+        [
+          "38 mm (1.50 in)",
+          "50.2 mm",
+          "142.2 mm",
+          "+6.2 mm"
+        ],
+        [
+          "40 mm (1.57 in)",
+          "48.7 mm",
+          "140.7 mm",
+          "+4.7 mm"
+        ],
+        [
+          "44 mm (1.73 in)",
+          "45.1 mm",
+          "137.1 mm",
+          "+1.1 mm"
+        ],
+        [
+          "48 mm (1.89 in)",
+          "40.8 mm",
+          "132.8 mm",
+          "−3.2 mm"
+        ]
+      ]
+    }
+  ]
+}
